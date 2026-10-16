@@ -1,0 +1,627 @@
+{
+  "domain": "calendly.com",
+  "profile": {
+    "actively_hiring": true,
+    "company_name": "Calendly",
+    "countries_served": [
+      "240+ countries"
+    ],
+    "employee_count": 3989,
+    "handles_sensitive_data": false,
+    "industry": "B2B meeting-scheduling software",
+    "online_store_platform": "none",
+    "sells_to": "both",
+    "website_languages": [
+      "English",
+      "French",
+      "Spanish",
+      "German",
+      "Dutch",
+      "Italian",
+      "Ukrainian",
+      "Brazilian Portuguese"
+    ],
+    "work_model": "remote"
+  },
+  "grounding": [
+    {
+      "field": "actively_hiring",
+      "citations": [
+        {
+          "url": "https://calendly.com/careers",
+          "title": "Let's make meetings better together | Calendly"
+        },
+        {
+          "url": "https://job-boards.greenhouse.io/calendly/jobs/8846049002",
+          "title": "Senior Full Stack Engineer, Website Development at Calendly"
+        },
+        {
+          "url": "https://boards.greenhouse.io/calendly/jobs/7831309002?gh_src=Blind",
+          "title": "Jobs at Calendly"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "company_name",
+      "citations": [
+        {
+          "url": "https://calendly.com/about",
+          "title": "About Us | Calendly"
+        },
+        {
+          "url": "https://calendly.com/careers",
+          "title": "Let's make meetings better together | Calendly"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "countries_served",
+      "citations": [
+        {
+          "url": "https://calendly.com/about",
+          "title": "About Us | Calendly"
+        },
+        {
+          "url": "https://assets.ctfassets.net/k0lk9kiuza3o/3sHOBA8YvlfqrrEmzj3IoR/510fa7b7d72415844e93f7b60026b576/Calendly_External_Fact_Sheet.pdf",
+          "title": "100k+ 20M+ 230+ 86%"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "employee_count",
+      "citations": [
+        {
+          "url": "https://job-boards.greenhouse.io/calendly/jobs/8846049002",
+          "title": "Senior Full Stack Engineer, Website Development at Calendly"
+        },
+        {
+          "url": "https://www.linkedin.com/company/calendly/jobs",
+          "title": "Calendly"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "handles_sensitive_data",
+      "citations": [
+        {
+          "url": "https://calendly.com/about",
+          "title": "About Us | Calendly"
+        },
+        {
+          "url": "https://calendly.com/help/your-privacy-and-security",
+          "title": "Your privacy and security | Calendly Help"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "industry",
+      "citations": [
+        {
+          "url": "https://calendly.com/about",
+          "title": "About Us | Calendly"
+        },
+        {
+          "url": "https://dealroom.co/companies/calendly/",
+          "title": "Calendly — Unicorn company profile | Dealroom"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "online_store_platform",
+      "citations": [
+        {
+          "url": "https://calendly.com/about",
+          "title": "About Us | Calendly"
+        },
+        {
+          "url": "https://calendly.com/help/how-to-add-calendly-to-a-shopify-site",
+          "title": "How to add Calendly to a Shopify site | Calendly Help"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "sells_to",
+      "citations": [
+        {
+          "url": "https://calendly.com/about",
+          "title": "About Us | Calendly"
+        },
+        {
+          "url": "https://dealroom.co/companies/calendly/",
+          "title": "Calendly — Unicorn company profile | Dealroom"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "website_languages",
+      "citations": [
+        {
+          "url": "https://assets.ctfassets.net/k0lk9kiuza3o/3sHOBA8YvlfqrrEmzj3IoR/510fa7b7d72415844e93f7b60026b576/Calendly_External_Fact_Sheet.pdf",
+          "title": "100k+ 20M+ 230+ 86%"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "work_model",
+      "citations": [
+        {
+          "url": "https://calendly.com/careers",
+          "title": "Let's make meetings better together | Calendly"
+        },
+        {
+          "url": "https://job-boards.greenhouse.io/calendly/jobs/8846049002",
+          "title": "Senior Full Stack Engineer, Website Development at Calendly"
+        },
+        {
+          "url": "https://job-boards.greenhouse.io/calendly/jobs/8860525002",
+          "title": "Staff Product Manager, Meetings at Calendly"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Let's make meetings better together | Calendly",
+      "url": "https://calendly.com/careers",
+      "highlights": [
+        "Remote - US\n...\nRemote - US\n...\nSan Francisco (Hybrid)\n...\nManager, AI Assistant\n...\nRemote - US\n...\nRemote - US\n...\nWe started by transforming the tedious back-and-forth of scheduling into a seamless experience for over 50 million users. \n\nNow, we're evolving to take on the burden of busywork for people whose work runs on meetings.\n...\nRemote-First\n\nHome office + tech stipends"
+      ]
+    },
+    {
+      "title": "Senior Full Stack Engineer, Website Development at Calendly",
+      "url": "https://job-boards.greenhouse.io/calendly/jobs/8846049002",
+      "highlights": [
+        "us, we want the people who build Calendly to experience the same value our customers do. You'll own tangible work, see it reach real customers, and grow through the challenges that come with building something meaningful. We're remote-first, guided by strong values, working alongside people who care about the work and each other. Founded in 2013. It has 3,989 employees. Annual revenue is $101.3M."
+      ]
+    },
+    {
+      "title": "Jobs at Calendly",
+      "url": "https://boards.greenhouse.io/calendly/jobs/7831309002?gh_src=Blind",
+      "highlights": [
+        "IIIRemote - US |\n| --- |\n| Machine Learning EngineerRemote - US |\n| Senior Full Stack Engineer, App PlatformRemote - US |\n| Senior Full Stack Engineer, Calendar PlatformRemote - US |\n| Senior Full Stack Engineer (Frontend-Leaning), SchedulingRemote - US |\n| Senior Full Stack Engineer, GrowthRemote - US |\n| Senior Full Stack Engineer, Meeting IntelligenceRemote - US |\n| Senior Full Stack Engineer,"
+      ]
+    },
+    {
+      "title": "About Us | Calendly",
+      "url": "https://calendly.com/about",
+      "highlights": [
+        "for over 50 million people across 240+ countries. But as we got to know our customers, we began to see a deeper truth: Scheduling is just the beginning. That's why we're taking on all of the work around meetings — scheduling, payments, meeting notes, follow-ups, contacts, and more. We bring together industry-leading scheduling features, 100+ integrations, and an AI assistant designed to"
+      ]
+    },
+    {
+      "title": "100k+ 20M+ 230+ 86%",
+      "url": "https://assets.ctfassets.net/k0lk9kiuza3o/3sHOBA8YvlfqrrEmzj3IoR/510fa7b7d72415844e93f7b60026b576/Calendly_External_Fact_Sheet.pdf",
+      "highlights": [
+        "Calendly is the easiest way for individuals, teams, and organizations globally to schedule, prepare, and follow-up on external meetings. Calendly helps customers simplify the meeting lifecycle and collaborate more effectively and efficiently.\n...\n100k+ organizations use Calendly 20M+ users 230+ countries with users 86% of the Fortune 500 are users\n...\n##### Remote-first company"
+      ]
+    },
+    {
+      "title": "Calendly",
+      "url": "https://www.linkedin.com/company/calendly/jobs",
+      "highlights": [
+        "platform that makes \"finding time\" a breeze. When connecting is easy, your teams can get more done. Calendly employs 3,989 people (+630.6% YoY, +3443 people) and has an annual revenue of $101.3M, founded in 2013. Headquartered in Atlanta, Georgia, United States, with an office in Buford. Its workforce is distributed across 13 countries (including United States, Canada, United Kingdom, Brazil, and"
+      ]
+    },
+    {
+      "title": "Your privacy and security | Calendly Help",
+      "url": "https://calendly.com/help/your-privacy-and-security",
+      "highlights": [
+        "Calendly is a cloud service that simplifies meeting scheduling by securely connecting to calendar providers to check availability. We follow strict security practices.\n...\nThe Calendly application is hosted on Kubernetes / Google Cloud Services (GCS). GCS' data center operations have been accredited under:\n...\nbusinesses that use ... ly with European customers,"
+      ]
+    },
+    {
+      "title": "Calendly — Unicorn company profile | Dealroom",
+      "url": "https://dealroom.co/companies/calendly/",
+      "highlights": [
+        "Atlanta, United States Founded 2013 Other B2B Software\n\n Valuation $2.5–5B Last recorded · 2026 Revenue $100–500M Latest reported FY Headcount 500–1k Current team size \n\n Unlock exact values This page shows ranges. Dealroom has the exact numbers for Calendly and the history behind them.\n...\nWorkforce by country\n\n 19 countries with team presence \n\n🇺🇸 United States 93.4%"
+      ]
+    }
+  ],
+  "timings": {
+    "roundTripMs": 3987,
+    "searchTimeMs": 3917,
+    "queueMs": 0
+  },
+  "costDollars": 0.012,
+  "searchType": "deep-lite",
+  "request": {
+    "query": "calendly.com company profile: industry, number of employees, countries it sells to, website languages, how its team works (remote, hybrid, or office), and whether it is hiring",
+    "type": "deep-lite",
+    "systemPrompt": "Research the company that owns the website calendly.com. Prefer the company's own site (about, careers, help, store) and reputable business sources. Report facts only. If a fact cannot be determined, use \"unknown\" for strings, 0 for numbers, false for booleans, and an empty list for arrays. Never guess.",
+    "additionalQueries": [
+      "calendly.com careers: open roles, remote or hybrid or in-office work, office locations",
+      "calendly.com about us: company size, headquarters, and countries or markets served",
+      "calendly.com online store e-commerce platform and tech stack"
+    ],
+    "excludeDomains": [
+      "corporateofficehq.com",
+      "zoominfo.com",
+      "rocketreach.co",
+      "leadiq.com",
+      "signalhire.com",
+      "contactout.com",
+      "lusha.com",
+      "apollo.io",
+      "clay.com",
+      "highperformr.ai"
+    ],
+    "numResults": 8,
+    "contents": {
+      "highlights": {
+        "query": "company size, markets served, remote or office work, open roles, online store platform",
+        "maxCharacters": 400
+      }
+    },
+    "outputSchema": {
+      "type": "object",
+      "required": [
+        "company_name",
+        "industry",
+        "employee_count",
+        "sells_to",
+        "online_store_platform",
+        "countries_served",
+        "website_languages",
+        "work_model",
+        "actively_hiring",
+        "handles_sensitive_data"
+      ],
+      "properties": {
+        "company_name": {
+          "type": "string",
+          "description": "Common name of the company"
+        },
+        "industry": {
+          "type": "string",
+          "description": "Short industry label, e.g. 'Direct-to-consumer apparel'"
+        },
+        "employee_count": {
+          "type": "integer",
+          "description": "Approximate total number of employees; 0 if unknown"
+        },
+        "sells_to": {
+          "type": "string",
+          "enum": [
+            "consumers",
+            "businesses",
+            "both",
+            "unknown"
+          ],
+          "description": "Who the company primarily sells to"
+        },
+        "online_store_platform": {
+          "type": "string",
+          "description": "E-commerce platform behind its online store (e.g. 'Shopify'); 'none' if it does not sell online; 'unknown' if it cannot be determined"
+        },
+        "countries_served": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Countries or regions it sells or ships to, one per item. If it serves many, list its largest markets, or a count such as '150+ countries'"
+        },
+        "website_languages": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Languages its website, store, or help pages are offered in"
+        },
+        "work_model": {
+          "type": "string",
+          "enum": [
+            "remote",
+            "hybrid",
+            "office",
+            "unknown"
+          ],
+          "description": "How most employees work, from its careers pages and job posts: remote-first, hybrid, or in an office"
+        },
+        "actively_hiring": {
+          "type": "boolean",
+          "description": "Whether its careers page or job boards list open roles right now"
+        },
+        "handles_sensitive_data": {
+          "type": "boolean",
+          "description": "Whether the company's core product involves customers' health or financial records (health tracking, banking, insurance, lending). Taking card payments at checkout does not count"
+        }
+      }
+    }
+  },
+  "response": {
+    "requestId": "c3e5fa2f02aa846cda07be3618129381",
+    "resolvedSearchType": "",
+    "results": [
+      {
+        "id": "https://calendly.com/careers",
+        "title": "Let's make meetings better together | Calendly",
+        "url": "https://calendly.com/careers",
+        "highlights": [
+          "Remote - US\n...\nRemote - US\n...\nSan Francisco (Hybrid)\n...\nManager, AI Assistant\n...\nRemote - US\n...\nRemote - US\n...\nWe started by transforming the tedious back-and-forth of scheduling into a seamless experience for over 50 million users. \n\nNow, we're evolving to take on the burden of busywork for people whose work runs on meetings.\n...\nRemote-First\n\nHome office + tech stipends"
+        ],
+        "image": "https://calendly.com/media/OgImage-v2.png"
+      },
+      {
+        "id": "https://job-boards.greenhouse.io/calendly/jobs/8846049002",
+        "title": "Senior Full Stack Engineer, Website Development at Calendly",
+        "url": "https://job-boards.greenhouse.io/calendly/jobs/8846049002",
+        "publishedDate": "2026-09-28T00:00:00.000Z",
+        "highlights": [
+          "us, we want the people who build Calendly to experience the same value our customers do. You'll own tangible work, see it reach real customers, and grow through the challenges that come with building something meaningful. We're remote-first, guided by strong values, working alongside people who care about the work and each other. Founded in 2013. It has 3,989 employees. Annual revenue is $101.3M."
+        ]
+      },
+      {
+        "id": "https://boards.greenhouse.io/calendly/jobs/7831309002?gh_src=Blind",
+        "title": "Jobs at Calendly",
+        "url": "https://boards.greenhouse.io/calendly/jobs/7831309002?gh_src=Blind",
+        "highlights": [
+          "IIIRemote - US |\n| --- |\n| Machine Learning EngineerRemote - US |\n| Senior Full Stack Engineer, App PlatformRemote - US |\n| Senior Full Stack Engineer, Calendar PlatformRemote - US |\n| Senior Full Stack Engineer (Frontend-Leaning), SchedulingRemote - US |\n| Senior Full Stack Engineer, GrowthRemote - US |\n| Senior Full Stack Engineer, Meeting IntelligenceRemote - US |\n| Senior Full Stack Engineer,"
+        ],
+        "image": "https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/161/000/original/GH_logo.png?1637341132"
+      },
+      {
+        "id": "https://calendly.com/about",
+        "title": "About Us | Calendly",
+        "url": "https://calendly.com/about",
+        "highlights": [
+          "for over 50 million people across 240+ countries. But as we got to know our customers, we began to see a deeper truth: Scheduling is just the beginning. That's why we're taking on all of the work around meetings — scheduling, payments, meeting notes, follow-ups, contacts, and more. We bring together industry-leading scheduling features, 100+ integrations, and an AI assistant designed to"
+        ],
+        "image": "https://calendly.com/media/OgImage-v2.png"
+      },
+      {
+        "id": "https://assets.ctfassets.net/k0lk9kiuza3o/3sHOBA8YvlfqrrEmzj3IoR/510fa7b7d72415844e93f7b60026b576/Calendly_External_Fact_Sheet.pdf",
+        "title": "100k+ 20M+ 230+ 86%",
+        "url": "https://assets.ctfassets.net/k0lk9kiuza3o/3sHOBA8YvlfqrrEmzj3IoR/510fa7b7d72415844e93f7b60026b576/Calendly_External_Fact_Sheet.pdf",
+        "highlights": [
+          "Calendly is the easiest way for individuals, teams, and organizations globally to schedule, prepare, and follow-up on external meetings. Calendly helps customers simplify the meeting lifecycle and collaborate more effectively and efficiently.\n...\n100k+ organizations use Calendly 20M+ users 230+ countries with users 86% of the Fortune 500 are users\n...\n##### Remote-first company"
+        ]
+      },
+      {
+        "id": "https://exa.ai/library/organization/jt9703g9pgj",
+        "title": "Calendly",
+        "url": "https://www.linkedin.com/company/calendly/jobs",
+        "highlights": [
+          "platform that makes \"finding time\" a breeze. When connecting is easy, your teams can get more done. Calendly employs 3,989 people (+630.6% YoY, +3443 people) and has an annual revenue of $101.3M, founded in 2013. Headquartered in Atlanta, Georgia, United States, with an office in Buford. Its workforce is distributed across 13 countries (including United States, Canada, United Kingdom, Brazil, and"
+        ],
+        "image": "https://media.licdn.com/dms/image/v2/D560BAQEOG6T4l6SP4w/company-logo_200_200/B56aAaad7hIAAE-/0/1787149541467/calendly_logo?e=2147483647&v=beta&t=v4tg_gDX3XuuUaAaLnsxpfBWTuy1G7P5-rlsxSjlvQg",
+        "entities": [
+          {
+            "id": "https://exa.ai/library/organization/jt9703g9pgj",
+            "type": "company",
+            "version": 1,
+            "properties": {
+              "name": "Calendly",
+              "foundedYear": 2013,
+              "description": "Calendly connects the entire meeting workflow — scheduling, payments, meeting notes, follow-ups, contacts, and more — and handles the work before, during, and after meetings. From solo business owners to teams within large organizations, more than 50 million people across 240+ countries trust Calendly to help them get more out of every meeting.\n\nIf you're thinking about joining us, we want the people who build Calendly to experience the same value our customers do. You'll own tangible work, see it reach real customers, and grow through the challenges that come with building something meaningful. We're remote-first, guided by strong values, working alongside people who care about the work and each other. ",
+              "workforce": {
+                "total": 3989
+              },
+              "headquarters": {
+                "address": "271 17th St NW, 10th Floor, Atlanta, Georgia 30363, US",
+                "city": "Atlanta",
+                "postalCode": null,
+                "country": "United States"
+              },
+              "financials": {
+                "revenueAnnual": 101300000,
+                "fundingTotal": 350550000,
+                "fundingLatestRound": {
+                  "name": "Series b",
+                  "date": "2021-01-01",
+                  "amount": 350000000
+                }
+              },
+              "webTraffic": null,
+              "research": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "https://calendly.com/help/your-privacy-and-security",
+        "title": "Your privacy and security | Calendly Help",
+        "url": "https://calendly.com/help/your-privacy-and-security",
+        "highlights": [
+          "Calendly is a cloud service that simplifies meeting scheduling by securely connecting to calendar providers to check availability. We follow strict security practices.\n...\nThe Calendly application is hosted on Kubernetes / Google Cloud Services (GCS). GCS' data center operations have been accredited under:\n...\nbusinesses that use ... ly with European customers,"
+        ],
+        "image": "https://calendly.com/media/OgImage-v2.png"
+      },
+      {
+        "id": "https://dealroom.co/companies/calendly/",
+        "title": "Calendly — Unicorn company profile | Dealroom",
+        "url": "https://dealroom.co/companies/calendly/",
+        "highlights": [
+          "Atlanta, United States Founded 2013 Other B2B Software\n\n Valuation $2.5–5B Last recorded · 2026 Revenue $100–500M Latest reported FY Headcount 500–1k Current team size \n\n Unlock exact values This page shows ranges. Dealroom has the exact numbers for Calendly and the history behind them.\n...\nWorkforce by country\n\n 19 countries with team presence \n\n🇺🇸 United States 93.4%"
+        ],
+        "image": "https://storage.googleapis.com/dealroom-images-production/2026/08/27/1e6b08dfc222919c96c8faff8e11c626.png"
+      }
+    ],
+    "searchTime": 3916.9,
+    "costDollars": {
+      "total": 0.012
+    },
+    "output": {
+      "content": {
+        "actively_hiring": true,
+        "company_name": "Calendly",
+        "countries_served": [
+          "240+ countries"
+        ],
+        "employee_count": 3989,
+        "handles_sensitive_data": false,
+        "industry": "B2B meeting-scheduling software",
+        "online_store_platform": "none",
+        "sells_to": "both",
+        "website_languages": [
+          "English",
+          "French",
+          "Spanish",
+          "German",
+          "Dutch",
+          "Italian",
+          "Ukrainian",
+          "Brazilian Portuguese"
+        ],
+        "work_model": "remote"
+      },
+      "grounding": [
+        {
+          "field": "actively_hiring",
+          "citations": [
+            {
+              "url": "https://calendly.com/careers",
+              "title": "Let's make meetings better together | Calendly"
+            },
+            {
+              "url": "https://job-boards.greenhouse.io/calendly/jobs/8846049002",
+              "title": "Senior Full Stack Engineer, Website Development at Calendly"
+            },
+            {
+              "url": "https://boards.greenhouse.io/calendly/jobs/7831309002?gh_src=Blind",
+              "title": "Jobs at Calendly"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "company_name",
+          "citations": [
+            {
+              "url": "https://calendly.com/about",
+              "title": "About Us | Calendly"
+            },
+            {
+              "url": "https://calendly.com/careers",
+              "title": "Let's make meetings better together | Calendly"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "countries_served",
+          "citations": [
+            {
+              "url": "https://calendly.com/about",
+              "title": "About Us | Calendly"
+            },
+            {
+              "url": "https://assets.ctfassets.net/k0lk9kiuza3o/3sHOBA8YvlfqrrEmzj3IoR/510fa7b7d72415844e93f7b60026b576/Calendly_External_Fact_Sheet.pdf",
+              "title": "100k+ 20M+ 230+ 86%"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "employee_count",
+          "citations": [
+            {
+              "url": "https://job-boards.greenhouse.io/calendly/jobs/8846049002",
+              "title": "Senior Full Stack Engineer, Website Development at Calendly"
+            },
+            {
+              "url": "https://www.linkedin.com/company/calendly/jobs",
+              "title": "Calendly"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "handles_sensitive_data",
+          "citations": [
+            {
+              "url": "https://calendly.com/about",
+              "title": "About Us | Calendly"
+            },
+            {
+              "url": "https://calendly.com/help/your-privacy-and-security",
+              "title": "Your privacy and security | Calendly Help"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "industry",
+          "citations": [
+            {
+              "url": "https://calendly.com/about",
+              "title": "About Us | Calendly"
+            },
+            {
+              "url": "https://dealroom.co/companies/calendly/",
+              "title": "Calendly — Unicorn company profile | Dealroom"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "online_store_platform",
+          "citations": [
+            {
+              "url": "https://calendly.com/about",
+              "title": "About Us | Calendly"
+            },
+            {
+              "url": "https://calendly.com/help/how-to-add-calendly-to-a-shopify-site",
+              "title": "How to add Calendly to a Shopify site | Calendly Help"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "sells_to",
+          "citations": [
+            {
+              "url": "https://calendly.com/about",
+              "title": "About Us | Calendly"
+            },
+            {
+              "url": "https://dealroom.co/companies/calendly/",
+              "title": "Calendly — Unicorn company profile | Dealroom"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "website_languages",
+          "citations": [
+            {
+              "url": "https://assets.ctfassets.net/k0lk9kiuza3o/3sHOBA8YvlfqrrEmzj3IoR/510fa7b7d72415844e93f7b60026b576/Calendly_External_Fact_Sheet.pdf",
+              "title": "100k+ 20M+ 230+ 86%"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "work_model",
+          "citations": [
+            {
+              "url": "https://calendly.com/careers",
+              "title": "Let's make meetings better together | Calendly"
+            },
+            {
+              "url": "https://job-boards.greenhouse.io/calendly/jobs/8846049002",
+              "title": "Senior Full Stack Engineer, Website Development at Calendly"
+            },
+            {
+              "url": "https://job-boards.greenhouse.io/calendly/jobs/8860525002",
+              "title": "Staff Product Manager, Meetings at Calendly"
+            }
+          ],
+          "confidence": "high"
+        }
+      ]
+    }
+  },
+  "cached": false,
+  "fetchedAt": "2026-10-16T02:05:12.966Z"
+}

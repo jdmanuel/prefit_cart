@@ -1,0 +1,571 @@
+{
+  "domain": "basecamp.com",
+  "profile": {
+    "actively_hiring": false,
+    "company_name": "Basecamp (37signals)",
+    "countries_served": [
+      "100+ countries"
+    ],
+    "employee_count": 50,
+    "handles_sensitive_data": false,
+    "industry": "SaaS project-management and team-collaboration software",
+    "online_store_platform": "unknown",
+    "sells_to": "businesses",
+    "website_languages": [
+      "English"
+    ],
+    "work_model": "remote"
+  },
+  "grounding": [
+    {
+      "field": "actively_hiring",
+      "citations": [
+        {
+          "url": "https://basecamp.hirehive.com/",
+          "title": "Careers | Jobs at Basecamp"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "company_name",
+      "citations": [
+        {
+          "url": "https://basecamp.com/about",
+          "title": "Basecamp — Where we came from"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "countries_served",
+      "citations": [
+        {
+          "url": "https://basecamp.com/live",
+          "title": "Basecamp — Live around the world"
+        },
+        {
+          "url": "https://basecamp.com/",
+          "title": "Basecamp"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "employee_count",
+      "citations": [
+        {
+          "url": "https://basecamp.com/shapeup/4.1-appendix-02",
+          "title": "Adjust to Your Size | Shape Up"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "handles_sensitive_data",
+      "citations": [
+        {
+          "url": "https://docs.house.gov/meetings/JU/JU05/20200117/110386/HHRG-116-JU05-Wstate-HanssonD-20200117.pdf",
+          "title": "Written Testimony of David Heinemeier Hansson CTO & Cofounder, Basecamp"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "industry",
+      "citations": [
+        {
+          "url": "https://docs.house.gov/meetings/JU/JU05/20200117/110386/HHRG-116-JU05-Wstate-HanssonD-20200117.pdf",
+          "title": "Written Testimony of David Heinemeier Hansson CTO & Cofounder, Basecamp"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "online_store_platform",
+      "citations": [
+        {
+          "url": "https://baymard.com/ux-benchmark/case-studies/basecamp",
+          "title": "Basecamp UX Case Study – Baymard Institute"
+        }
+      ],
+      "confidence": "low"
+    },
+    {
+      "field": "sells_to",
+      "citations": [
+        {
+          "url": "https://docs.house.gov/meetings/JU/JU05/20200117/110386/HHRG-116-JU05-Wstate-HanssonD-20200117.pdf",
+          "title": "Written Testimony of David Heinemeier Hansson CTO & Cofounder, Basecamp"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "website_languages",
+      "citations": [
+        {
+          "url": "https://basecamp.wd1.myworkdayjobs.com/en-US/ECMC/job/Minneapolis-MN---Hybrid/Cybersecurity-Analyst-Senior_R4904",
+          "title": "Cybersecurity Analyst Senior at Basecamp"
+        }
+      ],
+      "confidence": "low"
+    },
+    {
+      "field": "work_model",
+      "citations": [
+        {
+          "url": "https://basecamp.com/handbook/how-we-work",
+          "title": "How We Work"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Careers | Jobs at Basecamp",
+      "url": "https://basecamp.hirehive.com/",
+      "highlights": [
+        "Careers | Jobs at Basecamp\n## Basecamp\n## Join our team\n### Currently there are no open roles"
+      ]
+    },
+    {
+      "title": "Basecamp — Where we came from",
+      "url": "https://basecamp.com/about",
+      "highlights": [
+        "Hey there, I’m ... Fried, one of the ... founders here. I’ve been ... 37signals — the business that makes Basecamp — for ... 7 years.\n...\nAnd about a year or so after we first released it, it was generating more revenue for us than our web design business. So we stopped doing web design and have been focused on building Basecamp ever since.\n...\ndesperately seek a"
+      ]
+    },
+    {
+      "title": "Basecamp — Live around the world",
+      "url": "https://basecamp.com/live",
+      "highlights": [
+        "Basecamp is used in over 100 countries, on every populated continent, across every industry imaginable.\n\nFrom engineering, to marketing, to manufacturing, to design, to software development, to construction, to client services, to PR communications, to publishing, to education, to religious institutions, to governments, to NGOs and non-profits, Basecamp fits any kind of work."
+      ]
+    },
+    {
+      "title": "Basecamp",
+      "url": "https://basecamp.com/",
+      "highlights": [
+        "Today, Basecamp is used across every industry, and nearly a million people, teams, companies, and non-profits worldwide rely on it daily for all sorts of things.\n...\n- 2.7 billion comments\n...\n2.2 billion files\n- 2.3 billion pings\n- 675 million boosts\n-\n...\n- 180 million to-do lists\n- 1 billion @mentions\n- 545 million to-dos completed\n- 15 billion notifications\n- 233 countries\n- 52,000 cities"
+      ]
+    },
+    {
+      "title": "Adjust to Your Size | Shape Up",
+      "url": "https://basecamp.com/shapeup/4.1-appendix-02",
+      "highlights": [
+        "camp’s current size (about 50 people in the whole company, roughly a dozen in the product team) we’ve been able to specialize roles so teams of designers and programmers can work without any interruption in the cycles. A dedicated team called SIP (Security, Infrastructure, and Performance) handles technical work that’s lower in the stack and more structural. Our Ops team keeps the lights on."
+      ]
+    },
+    {
+      "title": "Written Testimony of David Heinemeier Hansson CTO & Cofounder, Basecamp",
+      "url": "https://docs.house.gov/meetings/JU/JU05/20200117/110386/HHRG-116-JU05-Wstate-HanssonD-20200117.pdf",
+      "highlights": [
+        ", that today employs 56 team members across the US, and in a \nfew international locations. We sell a project-management and team \ncollaboration tool to mostly other small- and medium-sized businesses and \nteams. \nI’m here to provide testimony on what it’s like to run that business in the shadow \nof big tech today. I can tell you that it is not easy. And every year it becomes \nharder. I’m"
+      ]
+    },
+    {
+      "title": "Basecamp UX Case Study – Baymard Institute",
+      "url": "https://baymard.com/ux-benchmark/case-studies/basecamp",
+      "highlights": [
+        "This is a case study of Basecamp’s ecommerce user experience (UX) performance. It’s based on an exhaustive performance review of 231 design elements. 343 other sites have also been benchmarked for a complete picture of the ecommerce UX landscape.\n...\nURL: basecamp.com\n...\nBaymard’s UX research is used by 29,000+ UX professionals and by 71% of all Fortune 500 ecommerce companies"
+      ]
+    },
+    {
+      "title": "Cybersecurity Analyst Senior at Basecamp",
+      "url": "https://basecamp.wd1.myworkdayjobs.com/en-US/ECMC/job/Minneapolis-MN---Hybrid/Cybersecurity-Analyst-Senior_R4904",
+      "highlights": [
+        "- **Company:** Basecamp\n- **Location:** Minneapolis, MN - Hybrid\n- **Published:** 2026-08-21\n...\nMC Group is a nonprofit corporation focused on helping students succeed. Headquartered in Minneapolis, ECMC Group and its family of companies provide financial tools and services, as well as\n...\nThis position is classified as **hybrid** Monday - Wednesday and requires attendance in **Minneapolis, MN**."
+      ]
+    }
+  ],
+  "timings": {
+    "roundTripMs": 3667,
+    "searchTimeMs": 3605,
+    "queueMs": 0
+  },
+  "costDollars": 0.012,
+  "searchType": "deep-lite",
+  "request": {
+    "query": "basecamp.com company profile: industry, number of employees, countries it sells to, website languages, how its team works (remote, hybrid, or office), and whether it is hiring",
+    "type": "deep-lite",
+    "systemPrompt": "Research the company that owns the website basecamp.com. Prefer the company's own site (about, careers, help, store) and reputable business sources. Report facts only. If a fact cannot be determined, use \"unknown\" for strings, 0 for numbers, false for booleans, and an empty list for arrays. Never guess.",
+    "additionalQueries": [
+      "basecamp.com careers: open roles, remote or hybrid or in-office work, office locations",
+      "basecamp.com about us: company size, headquarters, and countries or markets served",
+      "basecamp.com online store e-commerce platform and tech stack"
+    ],
+    "excludeDomains": [
+      "corporateofficehq.com",
+      "zoominfo.com",
+      "rocketreach.co",
+      "leadiq.com",
+      "signalhire.com",
+      "contactout.com",
+      "lusha.com",
+      "apollo.io",
+      "clay.com",
+      "highperformr.ai"
+    ],
+    "numResults": 8,
+    "contents": {
+      "highlights": {
+        "query": "company size, markets served, remote or office work, open roles, online store platform",
+        "maxCharacters": 400
+      }
+    },
+    "outputSchema": {
+      "type": "object",
+      "required": [
+        "company_name",
+        "industry",
+        "employee_count",
+        "sells_to",
+        "online_store_platform",
+        "countries_served",
+        "website_languages",
+        "work_model",
+        "actively_hiring",
+        "handles_sensitive_data"
+      ],
+      "properties": {
+        "company_name": {
+          "type": "string",
+          "description": "Common name of the company"
+        },
+        "industry": {
+          "type": "string",
+          "description": "Short industry label, e.g. 'Direct-to-consumer apparel'"
+        },
+        "employee_count": {
+          "type": "integer",
+          "description": "Approximate total number of employees; 0 if unknown"
+        },
+        "sells_to": {
+          "type": "string",
+          "enum": [
+            "consumers",
+            "businesses",
+            "both",
+            "unknown"
+          ],
+          "description": "Who the company primarily sells to"
+        },
+        "online_store_platform": {
+          "type": "string",
+          "description": "E-commerce platform behind its online store (e.g. 'Shopify'); 'none' if it does not sell online; 'unknown' if it cannot be determined"
+        },
+        "countries_served": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Countries or regions it sells or ships to, one per item. If it serves many, list its largest markets, or a count such as '150+ countries'"
+        },
+        "website_languages": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Languages its website, store, or help pages are offered in"
+        },
+        "work_model": {
+          "type": "string",
+          "enum": [
+            "remote",
+            "hybrid",
+            "office",
+            "unknown"
+          ],
+          "description": "How most employees work, from its careers pages and job posts: remote-first, hybrid, or in an office"
+        },
+        "actively_hiring": {
+          "type": "boolean",
+          "description": "Whether its careers page or job boards list open roles right now"
+        },
+        "handles_sensitive_data": {
+          "type": "boolean",
+          "description": "Whether the company's core product involves customers' health or financial records (health tracking, banking, insurance, lending). Taking card payments at checkout does not count"
+        }
+      }
+    }
+  },
+  "response": {
+    "requestId": "badfe2c9cc27441c286400bdb9a2f2bb",
+    "resolvedSearchType": "",
+    "results": [
+      {
+        "id": "https://basecamp.hirehive.com/",
+        "title": "Careers | Jobs at Basecamp",
+        "url": "https://basecamp.hirehive.com/",
+        "highlights": [
+          "Careers | Jobs at Basecamp\n## Basecamp\n## Join our team\n### Currently there are no open roles"
+        ],
+        "image": "https://storage.hirehive.com/public/hiring-4.png",
+        "favicon": "https://basecamp.hirehive.com/favicon.ico"
+      },
+      {
+        "id": "https://basecamp.com/about",
+        "title": "Basecamp — Where we came from",
+        "url": "https://basecamp.com/about",
+        "highlights": [
+          "Hey there, I’m ... Fried, one of the ... founders here. I’ve been ... 37signals — the business that makes Basecamp — for ... 7 years.\n...\nAnd about a year or so after we first released it, it was generating more revenue for us than our web design business. So we stopped doing web design and have been focused on building Basecamp ever since.\n...\ndesperately seek a"
+        ],
+        "image": "https://basecamp.com/assets/images/opengraph/about.png?v=1.6.17"
+      },
+      {
+        "id": "https://basecamp.com/live",
+        "title": "Basecamp — Live around the world",
+        "url": "https://basecamp.com/live",
+        "highlights": [
+          "Basecamp is used in over 100 countries, on every populated continent, across every industry imaginable.\n\nFrom engineering, to marketing, to manufacturing, to design, to software development, to construction, to client services, to PR communications, to publishing, to education, to religious institutions, to governments, to NGOs and non-profits, Basecamp fits any kind of work."
+        ],
+        "image": "https://basecamp.com/assets/images/opengraph/live.png?v=1.6.15"
+      },
+      {
+        "id": "https://basecamp.com/",
+        "title": "Basecamp",
+        "url": "https://basecamp.com/",
+        "highlights": [
+          "Today, Basecamp is used across every industry, and nearly a million people, teams, companies, and non-profits worldwide rely on it daily for all sorts of things.\n...\n- 2.7 billion comments\n...\n2.2 billion files\n- 2.3 billion pings\n- 675 million boosts\n-\n...\n- 180 million to-do lists\n- 1 billion @mentions\n- 545 million to-dos completed\n- 15 billion notifications\n- 233 countries\n- 52,000 cities"
+        ],
+        "image": "https://basecamp.com/assets/images/opengraph/basecamp.png?v=1.6.19",
+        "entities": [
+          {
+            "id": "https://exa.ai/library/organization/jbbt2jcwrpc",
+            "type": "company",
+            "version": 1,
+            "properties": {
+              "name": "BaseCamp | Agência de Comunicação | Portugal",
+              "foundedYear": 2014,
+              "description": "Queremos ajudar cada empresa a comunicar com uma imagem da qual se orgulha.\nDesde o logotipo, web design, folheto, fotografia até à atualização das suas lojas on-line! Temos clientes orgulhosos em Ourém, Fátima, Leiria, Marinha Grande, Torres Novas, Coimbra, ...\nNum tempo em que a tecnologia e a imagem valem tudo, um segundo de atraso, faz com que a sua empresa perca um lugar ao sol. \nÉ preciso pensar diferente para chegar mais longe, ver o que ninguém vê e acreditar no que parece impossível...\nA BASECAMP oferece uma abordagem pessoal, estabelecendo um constante diálogo para que as reais necessidades do seu projeto sejam satisfeitas.\nDesde um simples folheto promocional a uma complexa criação de uma identidade visual ou sinalética, oferecemos-lhe sempre soluções que comunicam os valores do seu negócio e os objetivos que pretende alcançar.",
+              "workforce": {
+                "total": 2
+              },
+              "headquarters": {
+                "address": "Avenida Dom Nuno Álvares Pereira, Edifício Monumental, nº222 2º pt4, Vila Nova de Ourém, Santarém 2490-485, PT",
+                "city": "Vila Nova de Ourém",
+                "postalCode": null,
+                "country": "Portugal"
+              },
+              "financials": {
+                "revenueAnnual": 12300000,
+                "fundingTotal": 1,
+                "fundingLatestRound": {
+                  "name": "Series b",
+                  "date": "2009-09-24",
+                  "amount": 1
+                }
+              },
+              "webTraffic": {
+                "visitsMonthly": 726,
+                "countryRank": null,
+                "avgDurationSeconds": 69,
+                "history": [
+                  {
+                    "value": 1123,
+                    "dateFrom": "2026-04",
+                    "dateTo": "2026-04"
+                  },
+                  {
+                    "value": 1517,
+                    "dateFrom": "2026-05",
+                    "dateTo": "2026-05"
+                  },
+                  {
+                    "value": 1639,
+                    "dateFrom": "2026-06",
+                    "dateTo": "2026-06"
+                  },
+                  {
+                    "value": 1857,
+                    "dateFrom": "2026-07",
+                    "dateTo": "2026-07"
+                  },
+                  {
+                    "value": 1251,
+                    "dateFrom": "2026-08",
+                    "dateTo": "2026-08"
+                  },
+                  {
+                    "value": 726,
+                    "dateFrom": "2026-09",
+                    "dateTo": "2026-09"
+                  }
+                ]
+              },
+              "research": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "https://basecamp.com/shapeup/4.1-appendix-02",
+        "title": "Adjust to Your Size | Shape Up",
+        "url": "https://basecamp.com/shapeup/4.1-appendix-02",
+        "highlights": [
+          "camp’s current size (about 50 people in the whole company, roughly a dozen in the product team) we’ve been able to specialize roles so teams of designers and programmers can work without any interruption in the cycles. A dedicated team called SIP (Security, Infrastructure, and Performance) handles technical work that’s lower in the stack and more structural. Our Ops team keeps the lights on."
+        ],
+        "image": "https://basecamp.com/assets/images/opengraph/shape-up.png"
+      },
+      {
+        "id": "https://docs.house.gov/meetings/JU/JU05/20200117/110386/HHRG-116-JU05-Wstate-HanssonD-20200117.pdf",
+        "title": "Written Testimony of David Heinemeier Hansson CTO & Cofounder, Basecamp",
+        "url": "https://docs.house.gov/meetings/JU/JU05/20200117/110386/HHRG-116-JU05-Wstate-HanssonD-20200117.pdf",
+        "author": "David Heinemeier Hansson",
+        "highlights": [
+          ", that today employs 56 team members across the US, and in a \nfew international locations. We sell a project-management and team \ncollaboration tool to mostly other small- and medium-sized businesses and \nteams. \nI’m here to provide testimony on what it’s like to run that business in the shadow \nof big tech today. I can tell you that it is not easy. And every year it becomes \nharder. I’m"
+        ]
+      },
+      {
+        "id": "https://baymard.com/ux-benchmark/case-studies/basecamp",
+        "title": "Basecamp UX Case Study – Baymard Institute",
+        "url": "https://baymard.com/ux-benchmark/case-studies/basecamp",
+        "highlights": [
+          "This is a case study of Basecamp’s ecommerce user experience (UX) performance. It’s based on an exhaustive performance review of 231 design elements. 343 other sites have also been benchmarked for a complete picture of the ecommerce UX landscape.\n...\nURL: basecamp.com\n...\nBaymard’s UX research is used by 29,000+ UX professionals and by 71% of all Fortune 500 ecommerce companies"
+        ],
+        "image": "https://baymard.com/_next/static/media/nav-callout-ux-benchmarking.0vxgakwln.sa1.png"
+      },
+      {
+        "id": "https://basecamp.wd1.myworkdayjobs.com/en-US/ECMC/job/Minneapolis-MN---Hybrid/Cybersecurity-Analyst-Senior_R4904",
+        "title": "Cybersecurity Analyst Senior at Basecamp",
+        "url": "https://basecamp.wd1.myworkdayjobs.com/en-US/ECMC/job/Minneapolis-MN---Hybrid/Cybersecurity-Analyst-Senior_R4904",
+        "publishedDate": "2026-08-21T00:00:00.000Z",
+        "highlights": [
+          "- **Company:** Basecamp\n- **Location:** Minneapolis, MN - Hybrid\n- **Published:** 2026-08-21\n...\nMC Group is a nonprofit corporation focused on helping students succeed. Headquartered in Minneapolis, ECMC Group and its family of companies provide financial tools and services, as well as\n...\nThis position is classified as **hybrid** Monday - Wednesday and requires attendance in **Minneapolis, MN**."
+        ]
+      }
+    ],
+    "searchTime": 3604.9,
+    "costDollars": {
+      "total": 0.012
+    },
+    "output": {
+      "content": {
+        "actively_hiring": false,
+        "company_name": "Basecamp (37signals)",
+        "countries_served": [
+          "100+ countries"
+        ],
+        "employee_count": 50,
+        "handles_sensitive_data": false,
+        "industry": "SaaS project-management and team-collaboration software",
+        "online_store_platform": "unknown",
+        "sells_to": "businesses",
+        "website_languages": [
+          "English"
+        ],
+        "work_model": "remote"
+      },
+      "grounding": [
+        {
+          "field": "actively_hiring",
+          "citations": [
+            {
+              "url": "https://basecamp.hirehive.com/",
+              "title": "Careers | Jobs at Basecamp"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "company_name",
+          "citations": [
+            {
+              "url": "https://basecamp.com/about",
+              "title": "Basecamp — Where we came from"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "countries_served",
+          "citations": [
+            {
+              "url": "https://basecamp.com/live",
+              "title": "Basecamp — Live around the world"
+            },
+            {
+              "url": "https://basecamp.com/",
+              "title": "Basecamp"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "employee_count",
+          "citations": [
+            {
+              "url": "https://basecamp.com/shapeup/4.1-appendix-02",
+              "title": "Adjust to Your Size | Shape Up"
+            }
+          ],
+          "confidence": "medium"
+        },
+        {
+          "field": "handles_sensitive_data",
+          "citations": [
+            {
+              "url": "https://docs.house.gov/meetings/JU/JU05/20200117/110386/HHRG-116-JU05-Wstate-HanssonD-20200117.pdf",
+              "title": "Written Testimony of David Heinemeier Hansson CTO & Cofounder, Basecamp"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "industry",
+          "citations": [
+            {
+              "url": "https://docs.house.gov/meetings/JU/JU05/20200117/110386/HHRG-116-JU05-Wstate-HanssonD-20200117.pdf",
+              "title": "Written Testimony of David Heinemeier Hansson CTO & Cofounder, Basecamp"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "online_store_platform",
+          "citations": [
+            {
+              "url": "https://baymard.com/ux-benchmark/case-studies/basecamp",
+              "title": "Basecamp UX Case Study – Baymard Institute"
+            }
+          ],
+          "confidence": "low"
+        },
+        {
+          "field": "sells_to",
+          "citations": [
+            {
+              "url": "https://docs.house.gov/meetings/JU/JU05/20200117/110386/HHRG-116-JU05-Wstate-HanssonD-20200117.pdf",
+              "title": "Written Testimony of David Heinemeier Hansson CTO & Cofounder, Basecamp"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "website_languages",
+          "citations": [
+            {
+              "url": "https://basecamp.wd1.myworkdayjobs.com/en-US/ECMC/job/Minneapolis-MN---Hybrid/Cybersecurity-Analyst-Senior_R4904",
+              "title": "Cybersecurity Analyst Senior at Basecamp"
+            }
+          ],
+          "confidence": "low"
+        },
+        {
+          "field": "work_model",
+          "citations": [
+            {
+              "url": "https://basecamp.com/handbook/how-we-work",
+              "title": "How We Work"
+            }
+          ],
+          "confidence": "high"
+        }
+      ]
+    }
+  },
+  "cached": false,
+  "fetchedAt": "2026-10-16T02:05:37.130Z"
+}

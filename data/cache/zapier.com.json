@@ -1,0 +1,633 @@
+{
+  "domain": "zapier.com",
+  "profile": {
+    "actively_hiring": true,
+    "company_name": "Zapier",
+    "countries_served": [
+      "Worldwide"
+    ],
+    "employee_count": 1536,
+    "handles_sensitive_data": false,
+    "industry": "Workflow automation SaaS",
+    "online_store_platform": "unknown",
+    "sells_to": "businesses",
+    "website_languages": [
+      "English"
+    ],
+    "work_model": "remote"
+  },
+  "grounding": [
+    {
+      "field": "actively_hiring",
+      "citations": [
+        {
+          "url": "https://zapier.com/jobs",
+          "title": "Job openings at Zapier | Work from anywhere"
+        },
+        {
+          "url": "https://jobs.ashbyhq.com/zapier?workplaceType=Remote",
+          "title": "Zapier — Open Positions (11)"
+        },
+        {
+          "url": "https://jobs.ashbyhq.com/zapier",
+          "title": "Zapier — Open Positions (11)"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "company_name",
+      "citations": [
+        {
+          "url": "https://zapier.com/about?msockid=0098510e164a6601261647bb17f367f9",
+          "title": "About Zapier"
+        },
+        {
+          "url": "https://zapier.com/about",
+          "title": "About Zapier"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "countries_served",
+      "citations": [
+        {
+          "url": "https://linkedin.com/company/zapier",
+          "title": "Zapier"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Zapier",
+          "title": "Zapier - Wikipedia"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "employee_count",
+      "citations": [
+        {
+          "url": "https://linkedin.com/company/zapier",
+          "title": "Zapier"
+        },
+        {
+          "url": "https://www.forbes.com/companies/zapier/",
+          "title": "Zapier | Company Overview & News"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "handles_sensitive_data",
+      "citations": [
+        {
+          "url": "https://zapier.com/about",
+          "title": "About Zapier"
+        },
+        {
+          "url": "https://zapier.com/blog/automating-billions-of-tasks/",
+          "title": "Scalng Zapier to automate billions of tasks"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "industry",
+      "citations": [
+        {
+          "url": "https://linkedin.com/company/zapier",
+          "title": "Zapier"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Zapier",
+          "title": "Zapier - Wikipedia"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "online_store_platform",
+      "citations": [
+        {
+          "url": "https://techleads.fyi/lookup/zapier.com",
+          "title": "zapier.com uses OneTrust and 53 more technologies | TechLeads"
+        },
+        {
+          "url": "https://w3techs.com/sites/info/zapier.com",
+          "title": "Web Technologies used by Zapier.com"
+        }
+      ],
+      "confidence": "low"
+    },
+    {
+      "field": "sells_to",
+      "citations": [
+        {
+          "url": "https://zapier.com/about",
+          "title": "About Zapier"
+        },
+        {
+          "url": "https://runningremote.com/events/zapierwebinar20/",
+          "title": "The do's and don'ts of building a remote first culture - Running Remote"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "website_languages",
+      "citations": [
+        {
+          "url": "https://help.zapier.com/hc/en-us/sections/38726282592269-Commerce",
+          "title": "Commerce – Zapier"
+        }
+      ],
+      "confidence": "low"
+    },
+    {
+      "field": "work_model",
+      "citations": [
+        {
+          "url": "https://zapier.com/jobs",
+          "title": "Job openings at Zapier | Work from anywhere"
+        },
+        {
+          "url": "https://zapier.com/blog/global-mobility/",
+          "title": "Why Zapier created a policy to support global mobility"
+        },
+        {
+          "url": "https://jobs.ashbyhq.com/zapier/d4576c10-a27e-47fa-a056-30c898b9e672?jbid=recIF3PC43JPOtFfh",
+          "title": "Account Executive, Mid Market @ Zapier"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Job openings at Zapier | Work from anywhere",
+      "url": "https://zapier.com/jobs",
+      "highlights": [
+        ", and meaningful connection. We stay connected through async tools, Slack channels like #fun-cooking and #fun-music, local meetups, and annual summits. We believe automation and AI make remote work more efficient, collaborative, and human, helping us and our customers focus on what matters most. In 2024, we were recognized as one of the Best Companies for Work-Life Balance and a Top 100 Most"
+      ]
+    },
+    {
+      "title": "Zapier — Open Positions (11)",
+      "url": "https://jobs.ashbyhq.com/zapier?workplaceType=Remote",
+      "highlights": [
+        "# Zapier — Open Positions (11)\n\n- **Account Executive, Mid Market** — NAMER · FullTime · Remote\n- **Automation Strategist, Customer Success** — HQ · FullTime · Remote\n...\n- **People Business Partner** — EMEA · FullTime · Remote\n...\n· FullTime ·\n...\n- **Sr ... ** — NAMER · FullTime · Remote\n- **Sr. Technical Account Manager** — South America · FullTime · Remote"
+      ]
+    },
+    {
+      "title": "Zapier — Open Positions (11)",
+      "url": "https://jobs.ashbyhq.com/zapier",
+      "highlights": [
+        "# Zapier — Open Positions (11)\n\n- **Account Executive, Mid Market** — NAMER · FullTime · Remote\n- **Automation Strategist, Customer Success** — HQ · FullTime · Remote\n...\n- **People Business Partner** — EMEA · FullTime · Remote\n...\n· FullTime ·\n...\n- **Sr ... ** — NAMER · FullTime · Remote\n- **Sr. Technical Account Manager** — South America · FullTime · Remote"
+      ]
+    },
+    {
+      "title": "About Zapier",
+      "url": "https://zapier.com/about",
+      "highlights": [
+        "# About Zapier\n\nWe're humans who think computers should do more work. Learn more about Zapier.\n\n## We're humans who think computers should do more work"
+      ]
+    },
+    {
+      "title": "Zapier",
+      "url": "https://linkedin.com/company/zapier",
+      "highlights": [
+        "that helps businesses build and scale AI workflows and agents across 9,000+ apps. Zapier employs 1,536 people (+14.2% YoY, +191 people) and has an annual revenue of $200M, founded in 2011. Headquartered in San Francisco, California, United States, with an office in Sunnyvale. Its workforce is distributed across 47 countries (including United States, Canada, India, United Kingdom, and Australia)."
+      ]
+    },
+    {
+      "title": "Zapier - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zapier",
+      "highlights": [
+        "| Zapier | |\n| --- | --- |\n| | |\n| Type | Private |\n| Industry | Software as a service (SaaS) |\n| Founded | 2011 (project) and 2012 (company launch) |\n| Founders | Wade Foster, Bryan Helmig, Mike Knoop |\n| Headquarters | San Francisco, California, US |\n| Number of locations | Distributed; fully remote company |\n| Area served | Worldwide |\n| Number of employees | ~730 (2025) |\n| Website |"
+      ]
+    },
+    {
+      "title": "Zapier | Company Overview & News",
+      "url": "https://www.forbes.com/companies/zapier/",
+      "highlights": [
+        "month, Zapier users automate over 3.1 billion tasks across 8,000-plus apps. The remote-first company, which was launched out of a Missouri hackathon in 2011, has been largely self-sustaining—raising only $1.4 million in outside funding with a $5 billion valuation. Last year, it acquired the team behind AI-powered video conferencing tool Vowel, and this year, Zapier launched its Model Context"
+      ]
+    }
+  ],
+  "timings": {
+    "roundTripMs": 3336,
+    "searchTimeMs": 3277,
+    "queueMs": 0
+  },
+  "costDollars": 0.012,
+  "searchType": "deep-lite",
+  "request": {
+    "query": "zapier.com company profile: industry, number of employees, countries it sells to, website languages, how its team works (remote, hybrid, or office), and whether it is hiring",
+    "type": "deep-lite",
+    "systemPrompt": "Research the company that owns the website zapier.com. Prefer the company's own site (about, careers, help, store) and reputable business sources. Report facts only. If a fact cannot be determined, use \"unknown\" for strings, 0 for numbers, false for booleans, and an empty list for arrays. Never guess.",
+    "additionalQueries": [
+      "zapier.com careers: open roles, remote or hybrid or in-office work, office locations",
+      "zapier.com about us: company size, headquarters, and countries or markets served",
+      "zapier.com online store e-commerce platform and tech stack"
+    ],
+    "excludeDomains": [
+      "corporateofficehq.com",
+      "zoominfo.com",
+      "rocketreach.co",
+      "leadiq.com",
+      "signalhire.com",
+      "contactout.com",
+      "lusha.com",
+      "apollo.io",
+      "clay.com",
+      "highperformr.ai"
+    ],
+    "numResults": 8,
+    "contents": {
+      "highlights": {
+        "query": "company size, markets served, remote or office work, open roles, online store platform",
+        "maxCharacters": 400
+      }
+    },
+    "outputSchema": {
+      "type": "object",
+      "required": [
+        "company_name",
+        "industry",
+        "employee_count",
+        "sells_to",
+        "online_store_platform",
+        "countries_served",
+        "website_languages",
+        "work_model",
+        "actively_hiring",
+        "handles_sensitive_data"
+      ],
+      "properties": {
+        "company_name": {
+          "type": "string",
+          "description": "Common name of the company"
+        },
+        "industry": {
+          "type": "string",
+          "description": "Short industry label, e.g. 'Direct-to-consumer apparel'"
+        },
+        "employee_count": {
+          "type": "integer",
+          "description": "Approximate total number of employees; 0 if unknown"
+        },
+        "sells_to": {
+          "type": "string",
+          "enum": [
+            "consumers",
+            "businesses",
+            "both",
+            "unknown"
+          ],
+          "description": "Who the company primarily sells to"
+        },
+        "online_store_platform": {
+          "type": "string",
+          "description": "E-commerce platform behind its online store (e.g. 'Shopify'); 'none' if it does not sell online; 'unknown' if it cannot be determined"
+        },
+        "countries_served": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Countries or regions it sells or ships to, one per item. If it serves many, list its largest markets, or a count such as '150+ countries'"
+        },
+        "website_languages": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Languages its website, store, or help pages are offered in"
+        },
+        "work_model": {
+          "type": "string",
+          "enum": [
+            "remote",
+            "hybrid",
+            "office",
+            "unknown"
+          ],
+          "description": "How most employees work, from its careers pages and job posts: remote-first, hybrid, or in an office"
+        },
+        "actively_hiring": {
+          "type": "boolean",
+          "description": "Whether its careers page or job boards list open roles right now"
+        },
+        "handles_sensitive_data": {
+          "type": "boolean",
+          "description": "Whether the company's core product involves customers' health or financial records (health tracking, banking, insurance, lending). Taking card payments at checkout does not count"
+        }
+      }
+    }
+  },
+  "response": {
+    "requestId": "4fa69e050611eff8ea6902e663f70545",
+    "resolvedSearchType": "",
+    "results": [
+      {
+        "id": "https://zapier.com/jobs",
+        "title": "Job openings at Zapier | Work from anywhere",
+        "url": "https://zapier.com/jobs",
+        "highlights": [
+          ", and meaningful connection. We stay connected through async tools, Slack channels like #fun-cooking and #fun-music, local meetups, and annual summits. We believe automation and AI make remote work more efficient, collaborative, and human, helping us and our customers focus on what matters most. In 2024, we were recognized as one of the Best Companies for Work-Life Balance and a Top 100 Most"
+        ],
+        "image": "https://res.cloudinary.com/zapier-media/image/upload/v1718931823/Jobs/Group_1479066_x9hhll.png"
+      },
+      {
+        "id": "https://jobs.ashbyhq.com/zapier?workplaceType=Remote",
+        "title": "Zapier — Open Positions (11)",
+        "url": "https://jobs.ashbyhq.com/zapier?workplaceType=Remote",
+        "highlights": [
+          "# Zapier — Open Positions (11)\n\n- **Account Executive, Mid Market** — NAMER · FullTime · Remote\n- **Automation Strategist, Customer Success** — HQ · FullTime · Remote\n...\n- **People Business Partner** — EMEA · FullTime · Remote\n...\n· FullTime ·\n...\n- **Sr ... ** — NAMER · FullTime · Remote\n- **Sr. Technical Account Manager** — South America · FullTime · Remote"
+        ]
+      },
+      {
+        "id": "https://jobs.ashbyhq.com/zapier",
+        "title": "Zapier — Open Positions (11)",
+        "url": "https://jobs.ashbyhq.com/zapier",
+        "highlights": [
+          "# Zapier — Open Positions (11)\n\n- **Account Executive, Mid Market** — NAMER · FullTime · Remote\n- **Automation Strategist, Customer Success** — HQ · FullTime · Remote\n...\n- **People Business Partner** — EMEA · FullTime · Remote\n...\n· FullTime ·\n...\n- **Sr ... ** — NAMER · FullTime · Remote\n- **Sr. Technical Account Manager** — South America · FullTime · Remote"
+        ]
+      },
+      {
+        "id": "https://zapier.com/about?msockid=0098510e164a6601261647bb17f367f9",
+        "title": "About Zapier",
+        "url": "https://zapier.com/about",
+        "highlights": [
+          "# About Zapier\n\nWe're humans who think computers should do more work. Learn more about Zapier.\n\n## We're humans who think computers should do more work"
+        ]
+      },
+      {
+        "id": "https://exa.ai/library/organization/1r03cssfr4f",
+        "title": "Zapier",
+        "url": "https://linkedin.com/company/zapier",
+        "highlights": [
+          "that helps businesses build and scale AI workflows and agents across 9,000+ apps. Zapier employs 1,536 people (+14.2% YoY, +191 people) and has an annual revenue of $200M, founded in 2011. Headquartered in San Francisco, California, United States, with an office in Sunnyvale. Its workforce is distributed across 47 countries (including United States, Canada, India, United Kingdom, and Australia)."
+        ],
+        "image": "https://media.licdn.com/dms/image/v2/D4E0BAQFth66PfVkBUw/company-logo_200_200/B4EZyvRCrdKsAM-/0/1772467006589/zapier_logo?e=2147483647&v=beta&t=6t-5XZqVkPwNi8Xu99tmJMJrYHl235Uq3pdhWbagmzk",
+        "entities": [
+          {
+            "id": "https://exa.ai/library/organization/1r03cssfr4f",
+            "type": "company",
+            "version": 1,
+            "properties": {
+              "name": "Zapier",
+              "foundedYear": 2011,
+              "description": "Get your software working together, automatically.",
+              "workforce": {
+                "total": 1536
+              },
+              "headquarters": {
+                "address": "548 Market St., #62411, San Francisco, CA 94104, US",
+                "city": "San Francisco",
+                "postalCode": null,
+                "country": "United States"
+              },
+              "financials": {
+                "revenueAnnual": 200000000,
+                "fundingTotal": 1487949,
+                "fundingLatestRound": {
+                  "name": "Venture",
+                  "date": "2024-05-01",
+                  "amount": null
+                }
+              },
+              "webTraffic": {
+                "visitsMonthly": 5042786,
+                "countryRank": 3855,
+                "avgDurationSeconds": 383,
+                "history": [
+                  {
+                    "value": 6631095,
+                    "dateFrom": "2026-05",
+                    "dateTo": "2026-05"
+                  },
+                  {
+                    "value": 6012954,
+                    "dateFrom": "2026-06",
+                    "dateTo": "2026-06"
+                  },
+                  {
+                    "value": 5477145,
+                    "dateFrom": "2026-07",
+                    "dateTo": "2026-07"
+                  },
+                  {
+                    "value": 5676063,
+                    "dateFrom": "2026-08",
+                    "dateTo": "2026-08"
+                  },
+                  {
+                    "value": 5343295,
+                    "dateFrom": "2026-09",
+                    "dateTo": "2026-09"
+                  },
+                  {
+                    "value": 5042786,
+                    "dateFrom": "2026-10",
+                    "dateTo": "2026-10"
+                  }
+                ]
+              },
+              "research": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "https://en.wikipedia.org/wiki/Zapier",
+        "title": "Zapier - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Zapier",
+        "publishedDate": "2026-06-12T00:00:00.000Z",
+        "author": "Contributors to Wikimedia projects",
+        "highlights": [
+          "| Zapier | |\n| --- | --- |\n| | |\n| Type | Private |\n| Industry | Software as a service (SaaS) |\n| Founded | 2011 (project) and 2012 (company launch) |\n| Founders | Wade Foster, Bryan Helmig, Mike Knoop |\n| Headquarters | San Francisco, California, US |\n| Number of locations | Distributed; fully remote company |\n| Area served | Worldwide |\n| Number of employees | ~730 (2025) |\n| Website |"
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Zapier-logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+      },
+      {
+        "id": "https://www.forbes.com/companies/zapier/",
+        "title": "Zapier | Company Overview & News",
+        "url": "https://www.forbes.com/companies/zapier/",
+        "author": "Antonio Pequeño IV Forbes Staff",
+        "highlights": [
+          "month, Zapier users automate over 3.1 billion tasks across 8,000-plus apps. The remote-first company, which was launched out of a Missouri hackathon in 2011, has been largely self-sustaining—raising only $1.4 million in outside funding with a $5 billion valuation. Last year, it acquired the team behind AI-powered video conferencing tool Vowel, and this year, Zapier launched its Model Context"
+        ]
+      }
+    ],
+    "searchTime": 3276.8,
+    "costDollars": {
+      "total": 0.012
+    },
+    "output": {
+      "content": {
+        "actively_hiring": true,
+        "company_name": "Zapier",
+        "countries_served": [
+          "Worldwide"
+        ],
+        "employee_count": 1536,
+        "handles_sensitive_data": false,
+        "industry": "Workflow automation SaaS",
+        "online_store_platform": "unknown",
+        "sells_to": "businesses",
+        "website_languages": [
+          "English"
+        ],
+        "work_model": "remote"
+      },
+      "grounding": [
+        {
+          "field": "actively_hiring",
+          "citations": [
+            {
+              "url": "https://zapier.com/jobs",
+              "title": "Job openings at Zapier | Work from anywhere"
+            },
+            {
+              "url": "https://jobs.ashbyhq.com/zapier?workplaceType=Remote",
+              "title": "Zapier — Open Positions (11)"
+            },
+            {
+              "url": "https://jobs.ashbyhq.com/zapier",
+              "title": "Zapier — Open Positions (11)"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "company_name",
+          "citations": [
+            {
+              "url": "https://zapier.com/about?msockid=0098510e164a6601261647bb17f367f9",
+              "title": "About Zapier"
+            },
+            {
+              "url": "https://zapier.com/about",
+              "title": "About Zapier"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "countries_served",
+          "citations": [
+            {
+              "url": "https://linkedin.com/company/zapier",
+              "title": "Zapier"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Zapier",
+              "title": "Zapier - Wikipedia"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "employee_count",
+          "citations": [
+            {
+              "url": "https://linkedin.com/company/zapier",
+              "title": "Zapier"
+            },
+            {
+              "url": "https://www.forbes.com/companies/zapier/",
+              "title": "Zapier | Company Overview & News"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "handles_sensitive_data",
+          "citations": [
+            {
+              "url": "https://zapier.com/about",
+              "title": "About Zapier"
+            },
+            {
+              "url": "https://zapier.com/blog/automating-billions-of-tasks/",
+              "title": "Scalng Zapier to automate billions of tasks"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "industry",
+          "citations": [
+            {
+              "url": "https://linkedin.com/company/zapier",
+              "title": "Zapier"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Zapier",
+              "title": "Zapier - Wikipedia"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "online_store_platform",
+          "citations": [
+            {
+              "url": "https://techleads.fyi/lookup/zapier.com",
+              "title": "zapier.com uses OneTrust and 53 more technologies | TechLeads"
+            },
+            {
+              "url": "https://w3techs.com/sites/info/zapier.com",
+              "title": "Web Technologies used by Zapier.com"
+            }
+          ],
+          "confidence": "low"
+        },
+        {
+          "field": "sells_to",
+          "citations": [
+            {
+              "url": "https://zapier.com/about",
+              "title": "About Zapier"
+            },
+            {
+              "url": "https://runningremote.com/events/zapierwebinar20/",
+              "title": "The do's and don'ts of building a remote first culture - Running Remote"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "website_languages",
+          "citations": [
+            {
+              "url": "https://help.zapier.com/hc/en-us/sections/38726282592269-Commerce",
+              "title": "Commerce – Zapier"
+            }
+          ],
+          "confidence": "low"
+        },
+        {
+          "field": "work_model",
+          "citations": [
+            {
+              "url": "https://zapier.com/jobs",
+              "title": "Job openings at Zapier | Work from anywhere"
+            },
+            {
+              "url": "https://zapier.com/blog/global-mobility/",
+              "title": "Why Zapier created a policy to support global mobility"
+            },
+            {
+              "url": "https://jobs.ashbyhq.com/zapier/d4576c10-a27e-47fa-a056-30c898b9e672?jbid=recIF3PC43JPOtFfh",
+              "title": "Account Executive, Mid Market @ Zapier"
+            }
+          ],
+          "confidence": "high"
+        }
+      ]
+    }
+  },
+  "cached": false,
+  "fetchedAt": "2026-10-16T02:05:17.369Z"
+}

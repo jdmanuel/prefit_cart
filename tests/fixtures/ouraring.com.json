@@ -1,0 +1,562 @@
+{
+  "domain": "ouraring.com",
+  "profile": {
+    "actively_hiring": true,
+    "company_name": "ŌURA (Oura Ring)",
+    "countries_served": [
+      "150+ countries"
+    ],
+    "employee_count": 1626,
+    "handles_sensitive_data": true,
+    "industry": "Wearable health technology",
+    "online_store_platform": "Shopify Plus",
+    "sells_to": "both",
+    "website_languages": [
+      "English"
+    ],
+    "work_model": "hybrid"
+  },
+  "grounding": [
+    {
+      "field": "actively_hiring",
+      "citations": [
+        {
+          "url": "https://ouraring.com/careers",
+          "title": "Open positions at Oura"
+        },
+        {
+          "url": "https://datasignalslab.com/hiring/oura.html",
+          "title": "Oura careers: 77 open roles, counted daily | DataSignals Lab"
+        },
+        {
+          "url": "https://www.applinity.com/companies/oura",
+          "title": "Oura careers · 68 open US jobs · applinity"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "company_name",
+      "citations": [
+        {
+          "url": "https://ouraring.com/en/about-us",
+          "title": "Oura Ring About Us"
+        },
+        {
+          "url": "https://www.businesswire.com/news/home/20250922351288/en/URA-Surpasses-5.5-Million-Rings-Sold-and-Doubles-Revenue-for-the-Second-Year-in-a-Row-Empowering-Millions-to-Live-Better-Longer",
+          "title": "ŌURA Surpasses 5.5 Million Rings Sold and Doubles Revenue for the Second Year in a Row, Empowering Millions to Live Better, Longer"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "countries_served",
+      "citations": [
+        {
+          "url": "https://www.businesswire.com/news/home/20250922351288/en/URA-Surpasses-5.5-Million-Rings-Sold-and-Doubles-Revenue-for-the-Second-Year-in-a-Row-Empowering-Millions-to-Live-Better-Longer",
+          "title": "ŌURA Surpasses 5.5 Million Rings Sold and Doubles Revenue for the Second Year in a Row, Empowering Millions to Live Better, Longer"
+        },
+        {
+          "url": "https://ouraring.com/blog/oura-redomiciliation-news/",
+          "title": "A Note to the Oura Community on Our Legal Home - The Pulse Blog"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "employee_count",
+      "citations": [
+        {
+          "url": "https://ouraring.com/en/about-us",
+          "title": "Oura Ring About Us"
+        },
+        {
+          "url": "https://job-boards.greenhouse.io/oura/jobs/4435517009",
+          "title": "Staff Full Stack Engineer at Oura"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "handles_sensitive_data",
+      "citations": [
+        {
+          "url": "https://ouraring.com/en/about-us",
+          "title": "Oura Ring About Us"
+        },
+        {
+          "url": "https://www.businesswire.com/news/home/20250922351288/en/URA-Surpasses-5.5-Million-Rings-Sold-and-Doubles-Revenue-for-the-Second-Year-in-a-Row-Empowering-Millions-to-Live-Better-Longer",
+          "title": "ŌURA Surpasses 5.5 Million Rings Sold and Doubles Revenue for the Second Year in a Row, Empowering Millions to Live Better, Longer"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "industry",
+      "citations": [
+        {
+          "url": "https://ouraring.com/en/about-us",
+          "title": "Oura Ring About Us"
+        },
+        {
+          "url": "https://www.businesswire.com/news/home/20250922351288/en/URA-Surpasses-5.5-Million-Rings-Sold-and-Doubles-Revenue-for-the-Second-Year-in-a-Row-Empowering-Millions-to-Live-Better-Longer",
+          "title": "ŌURA Surpasses 5.5 Million Rings Sold and Doubles Revenue for the Second Year in a Row, Empowering Millions to Live Better, Longer"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "online_store_platform",
+      "citations": [
+        {
+          "url": "https://commerce-ui.com/work/oura-website",
+          "title": "Oura Ring Website Case Study — Headless Commerce with Shopify Plus — Commerce-UI"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "sells_to",
+      "citations": [
+        {
+          "url": "https://www.businesswire.com/news/home/20250922351288/en/URA-Surpasses-5.5-Million-Rings-Sold-and-Doubles-Revenue-for-the-Second-Year-in-a-Row-Empowering-Millions-to-Live-Better-Longer",
+          "title": "ŌURA Surpasses 5.5 Million Rings Sold and Doubles Revenue for the Second Year in a Row, Empowering Millions to Live Better, Longer"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "website_languages",
+      "citations": [
+        {
+          "url": "https://ouraring.com/en/about-us",
+          "title": "Oura Ring About Us"
+        }
+      ],
+      "confidence": "low"
+    },
+    {
+      "field": "work_model",
+      "citations": [
+        {
+          "url": "https://datasignalslab.com/hiring/oura.html",
+          "title": "Oura careers: 77 open roles, counted daily | DataSignals Lab"
+        },
+        {
+          "url": "https://www.applinity.com/companies/oura",
+          "title": "Oura careers · 68 open US jobs · applinity"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Open positions at Oura",
+      "url": "https://ouraring.com/careers",
+      "highlights": [
+        "#### San Francisco and San Diego (Rancho Bernardo)\n...\n#### Helsinki and Oulu\n...\n- An Oura Ring of your own\n...\n- Wellness time off\n- Easy-to-reach offices in Oulu Teknologiakylä and in\n...\nWhat started as an idea quickly grew into an industry-defining wearable consistently featured on every established tech site and publication. Today, we're a team of over 700 Ouranians and quickly growing."
+      ]
+    },
+    {
+      "title": "Oura careers: 77 open roles, counted daily | DataSignals Lab",
+      "url": "https://datasignalslab.com/hiring/oura.html",
+      "highlights": [
+        "| Open roles | 77 |\n| --- | --- |\n| Departments | 13 |\n| Countries | 2 |\n| Flagged remote by the employer | 23 (30%) |\n| Posted in the last 30 days | 33 |\n| Median age of an open role | 42 days |\n| Roles first seen in the last 14 days | 12 |\n| Roles we have seen close | 131 |\n...\nFrancisco, California (41), Remote - United States (16), Hybrid - London, England (4), Hybrid - Helsinki, Uusimaa (4)."
+      ]
+    },
+    {
+      "title": "Oura careers · 68 open US jobs · applinity",
+      "url": "https://www.applinity.com/companies/oura",
+      "highlights": [
+        "68 open US roles on applinity as of October 15, 2026 (76 postings in total on Oura's careers site at the last scan), with 5 US postings first seen in the last 7 days. Across all postings, the locations listed most often are Hybrid - San Francisco, California (39); Remote - United States (17); Hybrid - London, England (4). The largest hiring areas are Supply Chain (17); Hardware (14); Design (8)."
+      ]
+    },
+    {
+      "title": "Oura Ring About Us",
+      "url": "https://ouraring.com/en/about-us",
+      "highlights": [
+        "Our journey began in Finland, and today, Oura is a part of the health journey for millions of users in the US and around the world. Optimism is in our DNA - we see the opportunity for everyone to live a balanced life. Oura is a product of meticulous craftsmanship, combining thoughtful design and advanced technology\n...\n5.5M+ Ringssold worldwide.\n\n900+ Employeesacross countries and continents."
+      ]
+    },
+    {
+      "title": "ŌURA Surpasses 5.5 Million Rings Sold and Doubles Revenue for the Second Year in a Row, Empowering Millions to Live Better, Longer",
+      "url": "https://www.businesswire.com/news/home/20250922351288/en/URA-Surpasses-5.5-Million-Rings-Sold-and-Doubles-Revenue-for-the-Second-Year-in-a-Row-Empowering-Millions-to-Live-Better-Longer",
+      "highlights": [
+        "URA serves customers in over 150 countries and is now available at more than 4,000 retail locations across twenty countries. Last year, ŌURA became the fastest-growing brand on Amazon in the U.S. To further increase accessibility, Oura Ring is HSA/FSA-eligible in the U.S. and has 1,000 commercial partners globally, including American Express, which now includes a benefit with ŌURA on their U.S."
+      ]
+    },
+    {
+      "title": "A Note to the Oura Community on Our Legal Home - The Pulse Blog",
+      "url": "https://ouraring.com/blog/oura-redomiciliation-news/",
+      "highlights": [
+        "We’ve grown from a startup in Oulu into a global health technology company, with members in more than 150 countries and the majority of our revenue and investors now in the U.S. Creating a U.S. parent company is a legal and tax restructuring that allows for more simplicity in running the business, not a change in our products, teams, or mission."
+      ]
+    },
+    {
+      "title": "Staff Full Stack Engineer at Oura",
+      "url": "https://job-boards.greenhouse.io/oura/jobs/4435517009",
+      "highlights": [
+        "- **Company:** Oura\n- **Location:** Hybrid - San Francisco, California\n- **Department:** Software Engineering\n...\n:** 2026-10-09\n...\nOuraring Inc. is headquartered in San Francisco, CA. Founded in 2013. It has 1,626 employees. Annual revenue is $250M.\n...\n- This is a remote US role.\n\nThis is a hybrid role out of our San Francisco office."
+      ]
+    },
+    {
+      "title": "Oura Ring Website Case Study — Headless Commerce with Shopify Plus — Commerce-UI",
+      "url": "https://commerce-ui.com/work/oura-website",
+      "highlights": [
+        "Oura monitors your body's pulse, movement, and temperature to give you a holistic picture of your health. With sales of over 150,000 rings and a team of more than 100 employees globally, Oura is now a leader in the smart ring market. Recently, Oura raised $28 million in series B funding for its health and sleep tracking ring.\n...\nstorefront with a"
+      ]
+    }
+  ],
+  "timings": {
+    "roundTripMs": 4702,
+    "searchTimeMs": 4584,
+    "queueMs": 0
+  },
+  "costDollars": 0.012,
+  "searchType": "deep-lite",
+  "request": {
+    "query": "ouraring.com company profile: industry, number of employees, countries it sells to, website languages, how its team works (remote, hybrid, or office), and whether it is hiring",
+    "type": "deep-lite",
+    "systemPrompt": "Research the company that owns the website ouraring.com. Prefer the company's own site (about, careers, help, store) and reputable business sources. Report facts only. If a fact cannot be determined, use \"unknown\" for strings, 0 for numbers, false for booleans, and an empty list for arrays. Never guess.",
+    "additionalQueries": [
+      "ouraring.com careers: open roles, remote or hybrid or in-office work, office locations",
+      "ouraring.com about us: company size, headquarters, and countries or markets served",
+      "ouraring.com online store e-commerce platform and tech stack"
+    ],
+    "excludeDomains": [
+      "corporateofficehq.com",
+      "zoominfo.com",
+      "rocketreach.co",
+      "leadiq.com",
+      "signalhire.com",
+      "contactout.com",
+      "lusha.com",
+      "apollo.io",
+      "clay.com",
+      "highperformr.ai"
+    ],
+    "numResults": 8,
+    "contents": {
+      "highlights": {
+        "query": "company size, markets served, remote or office work, open roles, online store platform",
+        "maxCharacters": 400
+      }
+    },
+    "outputSchema": {
+      "type": "object",
+      "required": [
+        "company_name",
+        "industry",
+        "employee_count",
+        "sells_to",
+        "online_store_platform",
+        "countries_served",
+        "website_languages",
+        "work_model",
+        "actively_hiring",
+        "handles_sensitive_data"
+      ],
+      "properties": {
+        "company_name": {
+          "type": "string",
+          "description": "Common name of the company"
+        },
+        "industry": {
+          "type": "string",
+          "description": "Short industry label, e.g. 'Direct-to-consumer apparel'"
+        },
+        "employee_count": {
+          "type": "integer",
+          "description": "Approximate total number of employees; 0 if unknown"
+        },
+        "sells_to": {
+          "type": "string",
+          "enum": [
+            "consumers",
+            "businesses",
+            "both",
+            "unknown"
+          ],
+          "description": "Who the company primarily sells to"
+        },
+        "online_store_platform": {
+          "type": "string",
+          "description": "E-commerce platform behind its online store (e.g. 'Shopify'); 'none' if it does not sell online; 'unknown' if it cannot be determined"
+        },
+        "countries_served": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Countries or regions it sells or ships to, one per item. If it serves many, list its largest markets, or a count such as '150+ countries'"
+        },
+        "website_languages": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Languages its website, store, or help pages are offered in"
+        },
+        "work_model": {
+          "type": "string",
+          "enum": [
+            "remote",
+            "hybrid",
+            "office",
+            "unknown"
+          ],
+          "description": "How most employees work, from its careers pages and job posts: remote-first, hybrid, or in an office"
+        },
+        "actively_hiring": {
+          "type": "boolean",
+          "description": "Whether its careers page or job boards list open roles right now"
+        },
+        "handles_sensitive_data": {
+          "type": "boolean",
+          "description": "Whether the company's core product involves customers' health or financial records (health tracking, banking, insurance, lending). Taking card payments at checkout does not count"
+        }
+      }
+    }
+  },
+  "response": {
+    "requestId": "7f1ee675a8bfe98fac9182f621c72a4b",
+    "resolvedSearchType": "",
+    "results": [
+      {
+        "id": "https://ouraring.com/careers",
+        "title": "Open positions at Oura",
+        "url": "https://ouraring.com/careers",
+        "highlights": [
+          "#### San Francisco and San Diego (Rancho Bernardo)\n...\n#### Helsinki and Oulu\n...\n- An Oura Ring of your own\n...\n- Wellness time off\n- Easy-to-reach offices in Oulu Teknologiakylä and in\n...\nWhat started as an idea quickly grew into an industry-defining wearable consistently featured on every established tech site and publication. Today, we're a team of over 700 Ouranians and quickly growing."
+        ],
+        "image": "https://ouraring.com/assets/icons/opengraph-400x400.png"
+      },
+      {
+        "id": "https://datasignalslab.com/hiring/oura.html",
+        "title": "Oura careers: 77 open roles, counted daily | DataSignals Lab",
+        "url": "https://datasignalslab.com/hiring/oura.html",
+        "highlights": [
+          "| Open roles | 77 |\n| --- | --- |\n| Departments | 13 |\n| Countries | 2 |\n| Flagged remote by the employer | 23 (30%) |\n| Posted in the last 30 days | 33 |\n| Median age of an open role | 42 days |\n| Roles first seen in the last 14 days | 12 |\n| Roles we have seen close | 131 |\n...\nFrancisco, California (41), Remote - United States (16), Hybrid - London, England (4), Hybrid - Helsinki, Uusimaa (4)."
+        ],
+        "image": "https://datasignalslab.com/assets/og/og-default.png"
+      },
+      {
+        "id": "https://www.applinity.com/companies/oura",
+        "title": "Oura careers · 68 open US jobs · applinity",
+        "url": "https://www.applinity.com/companies/oura",
+        "highlights": [
+          "68 open US roles on applinity as of October 15, 2026 (76 postings in total on Oura's careers site at the last scan), with 5 US postings first seen in the last 7 days. Across all postings, the locations listed most often are Hybrid - San Francisco, California (39); Remote - United States (17); Hybrid - London, England (4). The largest hiring areas are Supply Chain (17); Hardware (14); Design (8)."
+        ],
+        "image": "https://www.applinity.com/companies/oura/opengraph-image?943bcc408d108637"
+      },
+      {
+        "id": "https://ouraring.com/en/about-us",
+        "title": "Oura Ring About Us",
+        "url": "https://ouraring.com/en/about-us",
+        "highlights": [
+          "Our journey began in Finland, and today, Oura is a part of the health journey for millions of users in the US and around the world. Optimism is in our DNA - we see the opportunity for everyone to live a balanced life. Oura is a product of meticulous craftsmanship, combining thoughtful design and advanced technology\n...\n5.5M+ Ringssold worldwide.\n\n900+ Employeesacross countries and continents."
+        ],
+        "image": "https://ouraring.com/assets/icons/opengraph-400x400.png",
+        "favicon": "https://ouraring.com/assets/icons/favicon-32x32.png"
+      },
+      {
+        "id": "https://www.businesswire.com/news/home/20250922351288/en/URA-Surpasses-5.5-Million-Rings-Sold-and-Doubles-Revenue-for-the-Second-Year-in-a-Row-Empowering-Millions-to-Live-Better-Longer",
+        "title": "ŌURA Surpasses 5.5 Million Rings Sold and Doubles Revenue for the Second Year in a Row, Empowering Millions to Live Better, Longer",
+        "url": "https://www.businesswire.com/news/home/20250922351288/en/URA-Surpasses-5.5-Million-Rings-Sold-and-Doubles-Revenue-for-the-Second-Year-in-a-Row-Empowering-Millions-to-Live-Better-Longer",
+        "publishedDate": "2025-09-22T14:15:00.000Z",
+        "highlights": [
+          "URA serves customers in over 150 countries and is now available at more than 4,000 retail locations across twenty countries. Last year, ŌURA became the fastest-growing brand on Amazon in the U.S. To further increase accessibility, Oura Ring is HSA/FSA-eligible in the U.S. and has 1,000 commercial partners globally, including American Express, which now includes a benefit with ŌURA on their U.S."
+        ],
+        "image": "https://www.businesswire.com/bw-logo.png"
+      },
+      {
+        "id": "https://ouraring.com/blog/oura-redomiciliation-news/",
+        "title": "A Note to the Oura Community on Our Legal Home - The Pulse Blog",
+        "url": "https://ouraring.com/blog/oura-redomiciliation-news/",
+        "publishedDate": "2026-02-19T21:43:24.000Z",
+        "author": "Tom Hale",
+        "highlights": [
+          "We’ve grown from a startup in Oulu into a global health technology company, with members in more than 150 countries and the majority of our revenue and investors now in the U.S. Creating a U.S. parent company is a legal and tax restructuring that allows for more simplicity in running the business, not a change in our products, teams, or mission."
+        ],
+        "image": "https://ouraring.com/blog/wp-content/uploads/2026/02/Blog-Hero-Image-2026-02-19T130544.857.png"
+      },
+      {
+        "id": "https://job-boards.greenhouse.io/oura/jobs/4435517009",
+        "title": "Staff Full Stack Engineer at Oura",
+        "url": "https://job-boards.greenhouse.io/oura/jobs/4435517009",
+        "publishedDate": "2026-10-09T00:00:00.000Z",
+        "highlights": [
+          "- **Company:** Oura\n- **Location:** Hybrid - San Francisco, California\n- **Department:** Software Engineering\n...\n:** 2026-10-09\n...\nOuraring Inc. is headquartered in San Francisco, CA. Founded in 2013. It has 1,626 employees. Annual revenue is $250M.\n...\n- This is a remote US role.\n\nThis is a hybrid role out of our San Francisco office."
+        ]
+      },
+      {
+        "id": "https://commerce-ui.com/work/oura-website",
+        "title": "Oura Ring Website Case Study — Headless Commerce with Shopify Plus — Commerce-UI",
+        "url": "https://commerce-ui.com/work/oura-website",
+        "highlights": [
+          "Oura monitors your body's pulse, movement, and temperature to give you a holistic picture of your health. With sales of over 150,000 rings and a team of more than 100 employees globally, Oura is now a leader in the smart ring market. Recently, Oura raised $28 million in series B funding for its health and sleep tracking ring.\n...\nstorefront with a"
+        ],
+        "image": "https://cdn.sanity.io/images/jtds2dzp/production/63da518763fd307d468ddc472f321a62b002c3ce-1200x630.png?w=1200&h=630"
+      }
+    ],
+    "searchTime": 4583.7,
+    "costDollars": {
+      "total": 0.012
+    },
+    "output": {
+      "content": {
+        "actively_hiring": true,
+        "company_name": "ŌURA (Oura Ring)",
+        "countries_served": [
+          "150+ countries"
+        ],
+        "employee_count": 1626,
+        "handles_sensitive_data": true,
+        "industry": "Wearable health technology",
+        "online_store_platform": "Shopify Plus",
+        "sells_to": "both",
+        "website_languages": [
+          "English"
+        ],
+        "work_model": "hybrid"
+      },
+      "grounding": [
+        {
+          "field": "actively_hiring",
+          "citations": [
+            {
+              "url": "https://ouraring.com/careers",
+              "title": "Open positions at Oura"
+            },
+            {
+              "url": "https://datasignalslab.com/hiring/oura.html",
+              "title": "Oura careers: 77 open roles, counted daily | DataSignals Lab"
+            },
+            {
+              "url": "https://www.applinity.com/companies/oura",
+              "title": "Oura careers · 68 open US jobs · applinity"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "company_name",
+          "citations": [
+            {
+              "url": "https://ouraring.com/en/about-us",
+              "title": "Oura Ring About Us"
+            },
+            {
+              "url": "https://www.businesswire.com/news/home/20250922351288/en/URA-Surpasses-5.5-Million-Rings-Sold-and-Doubles-Revenue-for-the-Second-Year-in-a-Row-Empowering-Millions-to-Live-Better-Longer",
+              "title": "ŌURA Surpasses 5.5 Million Rings Sold and Doubles Revenue for the Second Year in a Row, Empowering Millions to Live Better, Longer"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "countries_served",
+          "citations": [
+            {
+              "url": "https://www.businesswire.com/news/home/20250922351288/en/URA-Surpasses-5.5-Million-Rings-Sold-and-Doubles-Revenue-for-the-Second-Year-in-a-Row-Empowering-Millions-to-Live-Better-Longer",
+              "title": "ŌURA Surpasses 5.5 Million Rings Sold and Doubles Revenue for the Second Year in a Row, Empowering Millions to Live Better, Longer"
+            },
+            {
+              "url": "https://ouraring.com/blog/oura-redomiciliation-news/",
+              "title": "A Note to the Oura Community on Our Legal Home - The Pulse Blog"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "employee_count",
+          "citations": [
+            {
+              "url": "https://ouraring.com/en/about-us",
+              "title": "Oura Ring About Us"
+            },
+            {
+              "url": "https://job-boards.greenhouse.io/oura/jobs/4435517009",
+              "title": "Staff Full Stack Engineer at Oura"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "handles_sensitive_data",
+          "citations": [
+            {
+              "url": "https://ouraring.com/en/about-us",
+              "title": "Oura Ring About Us"
+            },
+            {
+              "url": "https://www.businesswire.com/news/home/20250922351288/en/URA-Surpasses-5.5-Million-Rings-Sold-and-Doubles-Revenue-for-the-Second-Year-in-a-Row-Empowering-Millions-to-Live-Better-Longer",
+              "title": "ŌURA Surpasses 5.5 Million Rings Sold and Doubles Revenue for the Second Year in a Row, Empowering Millions to Live Better, Longer"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "industry",
+          "citations": [
+            {
+              "url": "https://ouraring.com/en/about-us",
+              "title": "Oura Ring About Us"
+            },
+            {
+              "url": "https://www.businesswire.com/news/home/20250922351288/en/URA-Surpasses-5.5-Million-Rings-Sold-and-Doubles-Revenue-for-the-Second-Year-in-a-Row-Empowering-Millions-to-Live-Better-Longer",
+              "title": "ŌURA Surpasses 5.5 Million Rings Sold and Doubles Revenue for the Second Year in a Row, Empowering Millions to Live Better, Longer"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "online_store_platform",
+          "citations": [
+            {
+              "url": "https://commerce-ui.com/work/oura-website",
+              "title": "Oura Ring Website Case Study — Headless Commerce with Shopify Plus — Commerce-UI"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "sells_to",
+          "citations": [
+            {
+              "url": "https://www.businesswire.com/news/home/20250922351288/en/URA-Surpasses-5.5-Million-Rings-Sold-and-Doubles-Revenue-for-the-Second-Year-in-a-Row-Empowering-Millions-to-Live-Better-Longer",
+              "title": "ŌURA Surpasses 5.5 Million Rings Sold and Doubles Revenue for the Second Year in a Row, Empowering Millions to Live Better, Longer"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "website_languages",
+          "citations": [
+            {
+              "url": "https://ouraring.com/en/about-us",
+              "title": "Oura Ring About Us"
+            }
+          ],
+          "confidence": "low"
+        },
+        {
+          "field": "work_model",
+          "citations": [
+            {
+              "url": "https://datasignalslab.com/hiring/oura.html",
+              "title": "Oura careers: 77 open roles, counted daily | DataSignals Lab"
+            },
+            {
+              "url": "https://www.applinity.com/companies/oura",
+              "title": "Oura careers · 68 open US jobs · applinity"
+            }
+          ],
+          "confidence": "high"
+        }
+      ]
+    }
+  },
+  "cached": false,
+  "fetchedAt": "2026-10-16T02:05:02.693Z"
+}

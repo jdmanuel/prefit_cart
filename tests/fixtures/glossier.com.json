@@ -1,0 +1,684 @@
+{
+  "domain": "glossier.com",
+  "profile": {
+    "actively_hiring": true,
+    "company_name": "Glossier",
+    "countries_served": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Ireland",
+      "Sweden",
+      "Denmark",
+      "France"
+    ],
+    "employee_count": 460,
+    "handles_sensitive_data": false,
+    "industry": "Direct-to-consumer beauty and skincare",
+    "online_store_platform": "Shopify",
+    "sells_to": "consumers",
+    "website_languages": [
+      "English"
+    ],
+    "work_model": "hybrid"
+  },
+  "grounding": [
+    {
+      "field": "actively_hiring",
+      "citations": [
+        {
+          "url": "https://boards.greenhouse.io/embed/job_board?for=Glossier",
+          "title": "page_title"
+        },
+        {
+          "url": "https://job-boards.greenhouse.io/glossier/jobs/7021062?gh_jid=7021062",
+          "title": "Associate, FP&A"
+        },
+        {
+          "url": "https://boards.greenhouse.io/glossier/jobs/8155556?gh_jid=8155556",
+          "title": "Global Communications & Influencer Director (Contractor) at Glossier"
+        },
+        {
+          "url": "https://boards.greenhouse.io/glossier/jobs/8245136?gh_jid=8245136",
+          "title": "Brand Design Lead at Glossier"
+        },
+        {
+          "url": "https://boards.greenhouse.io/glossier/jobs/8245150?gh_jid=8245150",
+          "title": "Manager, Creative Operations at Glossier"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "company_name",
+      "citations": [
+        {
+          "url": "https://www.glossier.com/pages/about",
+          "title": "About – Glossier"
+        },
+        {
+          "url": "https://linkedin.com/company/glossier",
+          "title": "Glossier, Inc."
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "countries_served",
+      "citations": [
+        {
+          "url": "https://builtin.com/job/director-global-account-strategy/9668457",
+          "title": "Director, Global Account Strategy - Glossier | Built In"
+        },
+        {
+          "url": "https://builtin.com/company/glossier",
+          "title": "Glossier Careers, Perks + Culture | Built In"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "employee_count",
+      "citations": [
+        {
+          "url": "https://linkedin.com/company/glossier",
+          "title": "Glossier, Inc."
+        },
+        {
+          "url": "https://builtin.com/company/glossier",
+          "title": "Glossier Careers, Perks + Culture | Built In"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "handles_sensitive_data",
+      "citations": [
+        {
+          "url": "https://www.glossier.com/pages/about",
+          "title": "About – Glossier"
+        },
+        {
+          "url": "https://research.contrary.com/report/glossier",
+          "title": "Report: Glossier Business Breakdown & Founding Story | Contrary Research"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "industry",
+      "citations": [
+        {
+          "url": "https://www.glossier.com/pages/about",
+          "title": "About – Glossier"
+        },
+        {
+          "url": "https://research.contrary.com/report/glossier",
+          "title": "Report: Glossier Business Breakdown & Founding Story | Contrary Research"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "online_store_platform",
+      "citations": [
+        {
+          "url": "https://www.glossier.com/llms.txt",
+          "title": "Agent Instructions — Glossier"
+        },
+        {
+          "url": "https://www.sdg.la/case-studies/glossier/",
+          "title": "Glossier Shopify Case Study: Award-Winning Beauty | SDG"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "sells_to",
+      "citations": [
+        {
+          "url": "https://www.glossier.com/pages/about",
+          "title": "About – Glossier"
+        },
+        {
+          "url": "https://research.contrary.com/report/glossier",
+          "title": "Report: Glossier Business Breakdown & Founding Story | Contrary Research"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "website_languages",
+      "citations": [
+        {
+          "url": "https://www.glossier.com/pages/about",
+          "title": "About – Glossier"
+        },
+        {
+          "url": "https://www.glossier.com/llms.txt",
+          "title": "Agent Instructions — Glossier"
+        }
+      ],
+      "confidence": "low"
+    },
+    {
+      "field": "work_model",
+      "citations": [
+        {
+          "url": "https://haystackapp.io/companies/glossier",
+          "title": "Glossier jobs"
+        },
+        {
+          "url": "https://job-boards.greenhouse.io/glossier/jobs/7021062?gh_jid=7021062",
+          "title": "Associate, FP&A"
+        },
+        {
+          "url": "https://boards.greenhouse.io/glossier/jobs/8155556?gh_jid=8155556",
+          "title": "Global Communications & Influencer Director (Contractor) at Glossier"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "sources": [
+    {
+      "title": "page_title",
+      "url": "https://boards.greenhouse.io/embed/job_board?for=Glossier",
+      "highlights": [
+        ", MA |\n| --- |\n| Key Lead, BostonBoston, MA |\n| Key Lead, BrooklynBrooklyn, NY |\n| Key Lead, ChicagoChicago, IL |\n| Key Lead, Washington, DCWashington, DC |\n| (Sales Associate, Part-Time) Editor, AtlantaAtlanta, GA |\n| (Sales Associate, Part-Time) Editor, Las Vegastags.newLas Vegas, NV |\n| (Sales Associate, Part-Time) Editor, Los AngelesLos Angeles, CA |\n| (Sales Associate, Part-Time) Editor,"
+      ]
+    },
+    {
+      "title": "Associate, FP&A",
+      "url": "https://job-boards.greenhouse.io/glossier/jobs/7021062?gh_jid=7021062",
+      "highlights": [
+        "Remote (USA)\n...\nour growth. In 10 years, we have built an iconic brand that has revolutionized how consumers, and how the industry, think of beauty. The foundational DNA of our brand is resonant across generations, timeless, and ripe for building upon. Our next step is to bring Glossier to more people in more places. We are inclusive, customer-devoted, curious, courageous,\n...\n***#***LI-Remote"
+      ]
+    },
+    {
+      "title": "Global Communications & Influencer Director (Contractor) at Glossier",
+      "url": "https://boards.greenhouse.io/glossier/jobs/8155556?gh_jid=8155556",
+      "highlights": [
+        "point of all our makeup, skincare, bodycare, and fragrance products. At Glossier, beauty is about celebrating freedom of expression, individuality , and having fun. Our Skin First. Makeup Second™ approach ensures that every product supports your skin’s health, allowing your makeup to enhance rather than mask your natural beauty. Founded in 2014. It has 460 employees. Annual revenue is $275M."
+      ]
+    },
+    {
+      "title": "Brand Design Lead at Glossier",
+      "url": "https://boards.greenhouse.io/glossier/jobs/8245136?gh_jid=8245136",
+      "highlights": [
+        "point of all our makeup, skincare, bodycare, and fragrance products. At Glossier, beauty is about celebrating freedom of expression, individuality , and having fun. Our Skin First. Makeup Second™ approach ensures that every product supports your skin’s health, allowing your makeup to enhance rather than mask your natural beauty. Founded in 2014. It has 460 employees. Annual revenue is $275M."
+      ]
+    },
+    {
+      "title": "Manager, Creative Operations at Glossier",
+      "url": "https://boards.greenhouse.io/glossier/jobs/8245150?gh_jid=8245150",
+      "highlights": [
+        "point of all our makeup, skincare, bodycare, and fragrance products. At Glossier, beauty is about celebrating freedom of expression, individuality , and having fun. Our Skin First. Makeup Second™ approach ensures that every product supports your skin’s health, allowing your makeup to enhance rather than mask your natural beauty. Founded in 2014. It has 460 employees. Annual revenue is $275M."
+      ]
+    },
+    {
+      "title": "About – Glossier",
+      "url": "https://www.glossier.com/pages/about",
+      "highlights": [
+        "-great skincare—Glossier was built to make beauty accessible and uncomplicated. \n\n \n\nBefore we launched Glossier in 2014, we started as Into The Gloss. A beauty website and community devoted to sharing real information with real people, about really amazing products. It’s where we realized that beauty shouldn’t be built in a boardroom—it should be built by you. This ethos gave birth to our"
+      ]
+    },
+    {
+      "title": "Glossier, Inc.",
+      "url": "https://linkedin.com/company/glossier",
+      "highlights": [
+        "shipping. They also provide free standard shipping on orders $40+ and $60 cad+. Glossier, Inc. employs 460 people (-19.9% YoY, -114 people) and has an annual revenue of $275M, founded in 2014. Headquartered in New York, New York, United States, with an office in New York City. Its workforce is distributed across 11 countries (including United States, United Kingdom, Canada, India, and Nigeria)."
+      ]
+    },
+    {
+      "title": "Director, Global Account Strategy - Glossier | Built In",
+      "url": "https://builtin.com/job/director-global-account-strategy/9668457",
+      "highlights": [
+        ", growing our community, and making decisions in inclusive, customer-devoted, curious, courageous, and discerning ways. We believe in the power of the individual and see beauty as an incredible conduit for connection. Glossier is sold in the United States, Canada, the United Kingdom, Ireland, Sweden, Denmark, and France. Glossier, Inc. was founded in 2014 by Founder & CEO Emily Weiss, has over 200"
+      ]
+    }
+  ],
+  "timings": {
+    "roundTripMs": 4061,
+    "searchTimeMs": 4000,
+    "queueMs": 0
+  },
+  "costDollars": 0.012,
+  "searchType": "deep-lite",
+  "request": {
+    "query": "glossier.com company profile: industry, number of employees, countries it sells to, website languages, how its team works (remote, hybrid, or office), and whether it is hiring",
+    "type": "deep-lite",
+    "systemPrompt": "Research the company that owns the website glossier.com. Prefer the company's own site (about, careers, help, store) and reputable business sources. Report facts only. If a fact cannot be determined, use \"unknown\" for strings, 0 for numbers, false for booleans, and an empty list for arrays. Never guess.",
+    "additionalQueries": [
+      "glossier.com careers: open roles, remote or hybrid or in-office work, office locations",
+      "glossier.com about us: company size, headquarters, and countries or markets served",
+      "glossier.com online store e-commerce platform and tech stack"
+    ],
+    "excludeDomains": [
+      "corporateofficehq.com",
+      "zoominfo.com",
+      "rocketreach.co",
+      "leadiq.com",
+      "signalhire.com",
+      "contactout.com",
+      "lusha.com",
+      "apollo.io",
+      "clay.com",
+      "highperformr.ai"
+    ],
+    "numResults": 8,
+    "contents": {
+      "highlights": {
+        "query": "company size, markets served, remote or office work, open roles, online store platform",
+        "maxCharacters": 400
+      }
+    },
+    "outputSchema": {
+      "type": "object",
+      "required": [
+        "company_name",
+        "industry",
+        "employee_count",
+        "sells_to",
+        "online_store_platform",
+        "countries_served",
+        "website_languages",
+        "work_model",
+        "actively_hiring",
+        "handles_sensitive_data"
+      ],
+      "properties": {
+        "company_name": {
+          "type": "string",
+          "description": "Common name of the company"
+        },
+        "industry": {
+          "type": "string",
+          "description": "Short industry label, e.g. 'Direct-to-consumer apparel'"
+        },
+        "employee_count": {
+          "type": "integer",
+          "description": "Approximate total number of employees; 0 if unknown"
+        },
+        "sells_to": {
+          "type": "string",
+          "enum": [
+            "consumers",
+            "businesses",
+            "both",
+            "unknown"
+          ],
+          "description": "Who the company primarily sells to"
+        },
+        "online_store_platform": {
+          "type": "string",
+          "description": "E-commerce platform behind its online store (e.g. 'Shopify'); 'none' if it does not sell online; 'unknown' if it cannot be determined"
+        },
+        "countries_served": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Countries or regions it sells or ships to, one per item. If it serves many, list its largest markets, or a count such as '150+ countries'"
+        },
+        "website_languages": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Languages its website, store, or help pages are offered in"
+        },
+        "work_model": {
+          "type": "string",
+          "enum": [
+            "remote",
+            "hybrid",
+            "office",
+            "unknown"
+          ],
+          "description": "How most employees work, from its careers pages and job posts: remote-first, hybrid, or in an office"
+        },
+        "actively_hiring": {
+          "type": "boolean",
+          "description": "Whether its careers page or job boards list open roles right now"
+        },
+        "handles_sensitive_data": {
+          "type": "boolean",
+          "description": "Whether the company's core product involves customers' health or financial records (health tracking, banking, insurance, lending). Taking card payments at checkout does not count"
+        }
+      }
+    }
+  },
+  "response": {
+    "requestId": "f28534acb282bad33d8262fbc7c9b091",
+    "resolvedSearchType": "",
+    "results": [
+      {
+        "id": "https://boards.greenhouse.io/embed/job_board?for=Glossier",
+        "title": "page_title",
+        "url": "https://boards.greenhouse.io/embed/job_board?for=Glossier",
+        "highlights": [
+          ", MA |\n| --- |\n| Key Lead, BostonBoston, MA |\n| Key Lead, BrooklynBrooklyn, NY |\n| Key Lead, ChicagoChicago, IL |\n| Key Lead, Washington, DCWashington, DC |\n| (Sales Associate, Part-Time) Editor, AtlantaAtlanta, GA |\n| (Sales Associate, Part-Time) Editor, Las Vegastags.newLas Vegas, NV |\n| (Sales Associate, Part-Time) Editor, Los AngelesLos Angeles, CA |\n| (Sales Associate, Part-Time) Editor,"
+        ]
+      },
+      {
+        "id": "https://job-boards.greenhouse.io/glossier/jobs/7021062?gh_jid=7021062",
+        "title": "Associate, FP&A",
+        "url": "https://job-boards.greenhouse.io/glossier/jobs/7021062?gh_jid=7021062",
+        "highlights": [
+          "Remote (USA)\n...\nour growth. In 10 years, we have built an iconic brand that has revolutionized how consumers, and how the industry, think of beauty. The foundational DNA of our brand is resonant across generations, timeless, and ripe for building upon. Our next step is to bring Glossier to more people in more places. We are inclusive, customer-devoted, curious, courageous,\n...\n***#***LI-Remote"
+        ]
+      },
+      {
+        "id": "https://boards.greenhouse.io/glossier/jobs/8155556?gh_jid=8155556",
+        "title": "Global Communications & Influencer Director (Contractor) at Glossier",
+        "url": "https://boards.greenhouse.io/glossier/jobs/8155556?gh_jid=8155556",
+        "publishedDate": "2026-08-25T00:00:00.000Z",
+        "highlights": [
+          "point of all our makeup, skincare, bodycare, and fragrance products. At Glossier, beauty is about celebrating freedom of expression, individuality , and having fun. Our Skin First. Makeup Second™ approach ensures that every product supports your skin’s health, allowing your makeup to enhance rather than mask your natural beauty. Founded in 2014. It has 460 employees. Annual revenue is $275M."
+        ]
+      },
+      {
+        "id": "https://boards.greenhouse.io/glossier/jobs/8245136?gh_jid=8245136",
+        "title": "Brand Design Lead at Glossier",
+        "url": "https://boards.greenhouse.io/glossier/jobs/8245136?gh_jid=8245136",
+        "publishedDate": "2026-10-01T00:00:00.000Z",
+        "highlights": [
+          "point of all our makeup, skincare, bodycare, and fragrance products. At Glossier, beauty is about celebrating freedom of expression, individuality , and having fun. Our Skin First. Makeup Second™ approach ensures that every product supports your skin’s health, allowing your makeup to enhance rather than mask your natural beauty. Founded in 2014. It has 460 employees. Annual revenue is $275M."
+        ]
+      },
+      {
+        "id": "https://boards.greenhouse.io/glossier/jobs/8245150?gh_jid=8245150",
+        "title": "Manager, Creative Operations at Glossier",
+        "url": "https://boards.greenhouse.io/glossier/jobs/8245150?gh_jid=8245150",
+        "publishedDate": "2026-10-02T00:00:00.000Z",
+        "highlights": [
+          "point of all our makeup, skincare, bodycare, and fragrance products. At Glossier, beauty is about celebrating freedom of expression, individuality , and having fun. Our Skin First. Makeup Second™ approach ensures that every product supports your skin’s health, allowing your makeup to enhance rather than mask your natural beauty. Founded in 2014. It has 460 employees. Annual revenue is $275M."
+        ]
+      },
+      {
+        "id": "https://www.glossier.com/pages/about",
+        "title": "About – Glossier",
+        "url": "https://www.glossier.com/pages/about",
+        "highlights": [
+          "-great skincare—Glossier was built to make beauty accessible and uncomplicated. \n\n \n\nBefore we launched Glossier in 2014, we started as Into The Gloss. A beauty website and community devoted to sharing real information with real people, about really amazing products. It’s where we realized that beauty shouldn’t be built in a boardroom—it should be built by you. This ethos gave birth to our"
+        ],
+        "image": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/GL-fragrance-web-popup.jpg?v=1757451095"
+      },
+      {
+        "id": "https://exa.ai/library/organization/jpjzczn9hrn",
+        "title": "Glossier, Inc.",
+        "url": "https://linkedin.com/company/glossier",
+        "highlights": [
+          "shipping. They also provide free standard shipping on orders $40+ and $60 cad+. Glossier, Inc. employs 460 people (-19.9% YoY, -114 people) and has an annual revenue of $275M, founded in 2014. Headquartered in New York, New York, United States, with an office in New York City. Its workforce is distributed across 11 countries (including United States, United Kingdom, Canada, India, and Nigeria)."
+        ],
+        "image": "https://media.licdn.com/dms/image/v2/C4D0BAQFRRDiFOtEhiQ/company-logo_200_200/company-logo_200_200/0/1670427775589/glossier_logo?e=2147483647&v=beta&t=c_wF0Ecpc4s4yOJ29X5mtGIWaxU7qlNG-IuVB2FEZAY",
+        "entities": [
+          {
+            "id": "https://exa.ai/library/organization/jpjzczn9hrn",
+            "type": "company",
+            "version": 1,
+            "properties": {
+              "name": "Glossier, Inc.",
+              "foundedYear": 2014,
+              "description": "Here at Glossier, beauty is about you. From our formulas to packaging, playful shades to seriously-great skincare—Glossier was built to make beauty accessible and uncomplicated. Before we launched Glossier in 2014, we started as Into The Gloss. A beauty website and community devoted to sharing real information with real people, about really amazing products. It’s where we realized that beauty shouldn’t be built in a boardroom—it should be built by you. This ethos gave birth to our philosophy: Skin First. Makeup Second™. We prioritize skincare because we believe that healthy skin is the best foundation.\n\nWe believe in thoughtful design and cultivating conversations. It’s at the core of everything we do—the starting point of all our makeup, skincare, bodycare, and fragrance products. At Glossier, beauty is about celebrating freedom of expression, individuality , and having fun. Our Skin First. Makeup Second™ approach ensures that every product supports your skin’s health, allowing your makeup to enhance rather than mask your natural beauty.",
+              "workforce": {
+                "total": 460
+              },
+              "headquarters": {
+                "address": "233 Spring Street, East 10th Floor, New York, NY 10013, US",
+                "city": "New York",
+                "postalCode": null,
+                "country": "United States"
+              },
+              "financials": {
+                "revenueAnnual": 275000000,
+                "fundingTotal": 311400000,
+                "fundingLatestRound": {
+                  "name": "Debt financing",
+                  "date": "2026-06-01",
+                  "amount": 45000000
+                }
+              },
+              "webTraffic": {
+                "visitsMonthly": 1241051,
+                "countryRank": 12392,
+                "avgDurationSeconds": 82,
+                "history": [
+                  {
+                    "value": 1452825,
+                    "dateFrom": "2026-05",
+                    "dateTo": "2026-05"
+                  },
+                  {
+                    "value": 1339693,
+                    "dateFrom": "2026-06",
+                    "dateTo": "2026-06"
+                  },
+                  {
+                    "value": 1480012,
+                    "dateFrom": "2026-07",
+                    "dateTo": "2026-07"
+                  },
+                  {
+                    "value": 1253108,
+                    "dateFrom": "2026-08",
+                    "dateTo": "2026-08"
+                  },
+                  {
+                    "value": 1158888,
+                    "dateFrom": "2026-09",
+                    "dateTo": "2026-09"
+                  },
+                  {
+                    "value": 1241051,
+                    "dateFrom": "2026-10",
+                    "dateTo": "2026-10"
+                  }
+                ]
+              },
+              "research": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "https://builtin.com/job/director-global-account-strategy/9668457",
+        "title": "Director, Global Account Strategy - Glossier | Built In",
+        "url": "https://builtin.com/job/director-global-account-strategy/9668457",
+        "highlights": [
+          ", growing our community, and making decisions in inclusive, customer-devoted, curious, courageous, and discerning ways. We believe in the power of the individual and see beauty as an incredible conduit for connection. Glossier is sold in the United States, Canada, the United Kingdom, Ireland, Sweden, Denmark, and France. Glossier, Inc. was founded in 2014 by Founder & CEO Emily Weiss, has over 200"
+        ],
+        "image": "https://static.builtin.com/dist/images/9-white-compact.svg"
+      }
+    ],
+    "searchTime": 3999.5,
+    "costDollars": {
+      "total": 0.012
+    },
+    "output": {
+      "content": {
+        "actively_hiring": true,
+        "company_name": "Glossier",
+        "countries_served": [
+          "United States",
+          "Canada",
+          "United Kingdom",
+          "Ireland",
+          "Sweden",
+          "Denmark",
+          "France"
+        ],
+        "employee_count": 460,
+        "handles_sensitive_data": false,
+        "industry": "Direct-to-consumer beauty and skincare",
+        "online_store_platform": "Shopify",
+        "sells_to": "consumers",
+        "website_languages": [
+          "English"
+        ],
+        "work_model": "hybrid"
+      },
+      "grounding": [
+        {
+          "field": "actively_hiring",
+          "citations": [
+            {
+              "url": "https://boards.greenhouse.io/embed/job_board?for=Glossier",
+              "title": "page_title"
+            },
+            {
+              "url": "https://job-boards.greenhouse.io/glossier/jobs/7021062?gh_jid=7021062",
+              "title": "Associate, FP&A"
+            },
+            {
+              "url": "https://boards.greenhouse.io/glossier/jobs/8155556?gh_jid=8155556",
+              "title": "Global Communications & Influencer Director (Contractor) at Glossier"
+            },
+            {
+              "url": "https://boards.greenhouse.io/glossier/jobs/8245136?gh_jid=8245136",
+              "title": "Brand Design Lead at Glossier"
+            },
+            {
+              "url": "https://boards.greenhouse.io/glossier/jobs/8245150?gh_jid=8245150",
+              "title": "Manager, Creative Operations at Glossier"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "company_name",
+          "citations": [
+            {
+              "url": "https://www.glossier.com/pages/about",
+              "title": "About – Glossier"
+            },
+            {
+              "url": "https://linkedin.com/company/glossier",
+              "title": "Glossier, Inc."
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "countries_served",
+          "citations": [
+            {
+              "url": "https://builtin.com/job/director-global-account-strategy/9668457",
+              "title": "Director, Global Account Strategy - Glossier | Built In"
+            },
+            {
+              "url": "https://builtin.com/company/glossier",
+              "title": "Glossier Careers, Perks + Culture | Built In"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "employee_count",
+          "citations": [
+            {
+              "url": "https://linkedin.com/company/glossier",
+              "title": "Glossier, Inc."
+            },
+            {
+              "url": "https://builtin.com/company/glossier",
+              "title": "Glossier Careers, Perks + Culture | Built In"
+            }
+          ],
+          "confidence": "medium"
+        },
+        {
+          "field": "handles_sensitive_data",
+          "citations": [
+            {
+              "url": "https://www.glossier.com/pages/about",
+              "title": "About – Glossier"
+            },
+            {
+              "url": "https://research.contrary.com/report/glossier",
+              "title": "Report: Glossier Business Breakdown & Founding Story | Contrary Research"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "industry",
+          "citations": [
+            {
+              "url": "https://www.glossier.com/pages/about",
+              "title": "About – Glossier"
+            },
+            {
+              "url": "https://research.contrary.com/report/glossier",
+              "title": "Report: Glossier Business Breakdown & Founding Story | Contrary Research"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "online_store_platform",
+          "citations": [
+            {
+              "url": "https://www.glossier.com/llms.txt",
+              "title": "Agent Instructions — Glossier"
+            },
+            {
+              "url": "https://www.sdg.la/case-studies/glossier/",
+              "title": "Glossier Shopify Case Study: Award-Winning Beauty | SDG"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "sells_to",
+          "citations": [
+            {
+              "url": "https://www.glossier.com/pages/about",
+              "title": "About – Glossier"
+            },
+            {
+              "url": "https://research.contrary.com/report/glossier",
+              "title": "Report: Glossier Business Breakdown & Founding Story | Contrary Research"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "website_languages",
+          "citations": [
+            {
+              "url": "https://www.glossier.com/pages/about",
+              "title": "About – Glossier"
+            },
+            {
+              "url": "https://www.glossier.com/llms.txt",
+              "title": "Agent Instructions — Glossier"
+            }
+          ],
+          "confidence": "low"
+        },
+        {
+          "field": "work_model",
+          "citations": [
+            {
+              "url": "https://haystackapp.io/companies/glossier",
+              "title": "Glossier jobs"
+            },
+            {
+              "url": "https://job-boards.greenhouse.io/glossier/jobs/7021062?gh_jid=7021062",
+              "title": "Associate, FP&A"
+            },
+            {
+              "url": "https://boards.greenhouse.io/glossier/jobs/8155556?gh_jid=8155556",
+              "title": "Global Communications & Influencer Director (Contractor) at Glossier"
+            }
+          ],
+          "confidence": "high"
+        }
+      ]
+    }
+  },
+  "cached": false,
+  "fetchedAt": "2026-10-16T02:05:22.485Z"
+}

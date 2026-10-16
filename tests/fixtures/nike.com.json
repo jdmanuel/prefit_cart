@@ -1,0 +1,495 @@
+{
+  "domain": "nike.com",
+  "profile": {
+    "actively_hiring": true,
+    "company_name": "NIKE, Inc.",
+    "countries_served": [
+      "~190 countries"
+    ],
+    "employee_count": 73000,
+    "handles_sensitive_data": false,
+    "industry": "Athletic footwear, apparel, equipment and accessories",
+    "online_store_platform": "Next.js",
+    "sells_to": "both",
+    "website_languages": [
+      "25 languages"
+    ],
+    "work_model": "hybrid"
+  },
+  "grounding": [
+    {
+      "field": "actively_hiring",
+      "citations": [
+        {
+          "url": "https://careers.nike.com/jobs",
+          "title": "Search Open Nike Jobs"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "company_name",
+      "citations": [
+        {
+          "url": "https://investors.nike.com/_assets/_5c5e7dfb9b8f3a4f8235c64466d81cf9/nike/db/950/9550/annual_report/Nike-Inc-2026-10K.pdf",
+          "title": "2026 Nike Form 10-K"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "countries_served",
+      "citations": [
+        {
+          "url": "https://investors.nike.com/company-information/who-we-are",
+          "title": "Who We Are :: NIKE, Inc. (NKE)"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "employee_count",
+      "citations": [
+        {
+          "url": "https://investors.nike.com/_assets/_5c5e7dfb9b8f3a4f8235c64466d81cf9/nike/db/950/9550/annual_report/Nike-Inc-2026-10K.pdf",
+          "title": "2026 Nike Form 10-K"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "handles_sensitive_data",
+      "citations": [
+        {
+          "url": "https://investors.nike.com/_assets/_5c5e7dfb9b8f3a4f8235c64466d81cf9/nike/db/950/9550/annual_report/Nike-Inc-2026-10K.pdf",
+          "title": "2026 Nike Form 10-K"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "industry",
+      "citations": [
+        {
+          "url": "https://investors.nike.com/_assets/_5c5e7dfb9b8f3a4f8235c64466d81cf9/nike/db/950/9550/annual_report/Nike-Inc-2026-10K.pdf",
+          "title": "2026 Nike Form 10-K"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "online_store_platform",
+      "citations": [
+        {
+          "url": "https://gironajs.com/en/blog/nike-ecommerce-reverse-engineering",
+          "title": "Reverse engineering of Nike's e-commerce site using only the browser"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "sells_to",
+      "citations": [
+        {
+          "url": "https://investors.nike.com/_assets/_5c5e7dfb9b8f3a4f8235c64466d81cf9/nike/db/950/9550/annual_report/Nike-Inc-2026-10K.pdf",
+          "title": "2026 Nike Form 10-K"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "website_languages",
+      "citations": [
+        {
+          "url": "https://www.linkedin.com/posts/val-tone_the-new-omni-channel-apis-are-live-and-powering-activity-7243621081612263424-bG8f",
+          "title": "The new Omni Channel APIs are live and powering Nike’s Digital Experiences across Nike.com and Nike App in 56 countries, 25 languages, and 47 currencies."
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "work_model",
+      "citations": [
+        {
+          "url": "https://investors.nike.com/_assets/_5c5e7dfb9b8f3a4f8235c64466d81cf9/nike/db/950/9550/annual_report/Nike-Inc-2026-10K.pdf",
+          "title": "2026 Nike Form 10-K"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Search Open Nike Jobs",
+      "url": "https://careers.nike.com/jobs",
+      "highlights": [
+        "OPEN POSITIONS:\n...\n- ### Assistant Store Manager - Nike Gilroy R-92316\n...\nConverse Albertville\n...\n- ### Senior Materials Developer – Energy Footwear (Multiple Openings) R-95731\n...\n- ### Athlete / Asesor.a de Venta FT 40H Tiempo Completo – TEMPORAL | Nike Unite Punto Sur R-95566\n\nJAL, Jalisco, Mexico\n...\n- ### Head Coach / Gerente de Tienda | Nike Mexico City and WOF R-92078"
+      ]
+    },
+    {
+      "title": "2026 Nike Form 10-K",
+      "url": "https://investors.nike.com/_assets/_5c5e7dfb9b8f3a4f8235c64466d81cf9/nike/db/950/9550/annual_report/Nike-Inc-2026-10K.pdf",
+      "highlights": [
+        "EE BASE As of May 31, 2026, we had approximately 73,000 employees worldwide, including retail and part-time employees. We also utilize independent contractors and temporary personnel to supplement our workforce. Most of our employees are not represented by unions, except for certain employees in the EMEA and APLA geographies who are members of and/or are represented by trade unions, as allowed or"
+      ]
+    },
+    {
+      "title": "Who We Are :: NIKE, Inc. (NKE)",
+      "url": "https://investors.nike.com/company-information/who-we-are",
+      "highlights": [
+        "Headquartered in Beaverton, Oregon, NIKE, Inc. is the world's leading designer, marketer, and distributor of authentic athletic footwear, apparel, equipment, and accessories for a wide variety of sports and fitness activities. Converse, a wholly-owned NIKE, Inc. subsidiary brand, designs, markets and distributes athletic lifestyle footwear, apparel, and accessories.\n...\n: ~190"
+      ]
+    },
+    {
+      "title": "Reverse engineering of Nike's e-commerce site using only the browser",
+      "url": "https://gironajs.com/en/blog/nike-ecommerce-reverse-engineering",
+      "highlights": [
+        "The purpose of this article is to delve as deeply as possible into the technologies used and how they are employed within a \"major\" ecommerce platform, such as the one employed by Nike. We'll do this by utilizing the browser's developer tools.\n...\nGraphQL or if it was all ... . Although REST APIs are clearly more dominant, ... in managing wishlists when retrieving ... , for example"
+      ]
+    },
+    {
+      "title": "The new Omni Channel APIs are live and powering Nike’s Digital Experiences across Nike.com and Nike App in 56 countries, 25 languages, and 47 currencies.",
+      "url": "https://www.linkedin.com/posts/val-tone_the-new-omni-channel-apis-are-live-and-powering-activity-7243621081612263424-bG8f",
+      "highlights": [
+        "# The new Omni Channel APIs are live and powering Nike’s Digital Experiences across Nike.com and Nike App in 56 countries, 25 languages, and 47 currencies. · 2024-09-22T00:00:00+00:00\n...\n> 56 countries, 25 languages & 47 currencies... Our newly rebuilt Product Detail Pages are ready to inspire and power many billions more in digital direct to consumer sales.\n>"
+      ]
+    },
+    {
+      "title": "10-K - 07/17/2025 - NIKE, Inc.",
+      "url": "https://investors.nike.com/sec-filings/all-sec-filings/content/0000320187-25-000047/0000320187-25-000047.pdf",
+      "highlights": [
+        "in over 40 countries, our NIKE Direct and Converse direct to\n...\n• We provide a hybrid work approach for the majority of employees, as well as a Four Week Flex program, which provides employees an opportunity to work remotely for up to four weeks per year.\n...\nOur NIKE digital commerce website is located at www.nike.com. On our NIKE corporate website, located at investors.nike.com, we post the"
+      ]
+    },
+    {
+      "title": "Welcome to NIKE, Inc. —",
+      "url": "https://about.nike.com/en/company",
+      "highlights": [
+        "in 1999, Nike’s European Headquarters in Hilversum, The Netherlands sits on the former grounds of the 1928 Amsterdam Olympic Equestrian Games. The campus of 10 sustainability-designed buildings is home to more than 2,000 employees from more than 70 countries. Employees have access to training centers, running tracks, cycling paths, a pond-slash-ice rink, adaptable workspaces, eateries, an"
+      ]
+    },
+    {
+      "title": "Life @ Nike",
+      "url": "https://careers.nike.com/life-at-nike",
+      "highlights": [
+        "We have over 100,000 retail stores all over the world. From the location to the consumers, each one is unique in its own way.\n...\nWith over 50 distribution centers worldwide, we make the impossible happen by delivering to our consumers, accounts, and retail stores every day.\n...\n- ### Retail Associate, PT - Nike Las Vegas South R-92914\n\nLas Vegas, Nevada, United States\n...\n, SEAS - Nike"
+      ]
+    }
+  ],
+  "timings": {
+    "roundTripMs": 4417,
+    "searchTimeMs": 4352,
+    "queueMs": 0
+  },
+  "costDollars": 0.012,
+  "searchType": "deep-lite",
+  "request": {
+    "query": "nike.com company profile: industry, number of employees, countries it sells to, website languages, how its team works (remote, hybrid, or office), and whether it is hiring",
+    "type": "deep-lite",
+    "systemPrompt": "Research the company that owns the website nike.com. Prefer the company's own site (about, careers, help, store) and reputable business sources. Report facts only. If a fact cannot be determined, use \"unknown\" for strings, 0 for numbers, false for booleans, and an empty list for arrays. Never guess.",
+    "additionalQueries": [
+      "nike.com careers: open roles, remote or hybrid or in-office work, office locations",
+      "nike.com about us: company size, headquarters, and countries or markets served",
+      "nike.com online store e-commerce platform and tech stack"
+    ],
+    "excludeDomains": [
+      "corporateofficehq.com",
+      "zoominfo.com",
+      "rocketreach.co",
+      "leadiq.com",
+      "signalhire.com",
+      "contactout.com",
+      "lusha.com",
+      "apollo.io",
+      "clay.com",
+      "highperformr.ai"
+    ],
+    "numResults": 8,
+    "contents": {
+      "highlights": {
+        "query": "company size, markets served, remote or office work, open roles, online store platform",
+        "maxCharacters": 400
+      }
+    },
+    "outputSchema": {
+      "type": "object",
+      "required": [
+        "company_name",
+        "industry",
+        "employee_count",
+        "sells_to",
+        "online_store_platform",
+        "countries_served",
+        "website_languages",
+        "work_model",
+        "actively_hiring",
+        "handles_sensitive_data"
+      ],
+      "properties": {
+        "company_name": {
+          "type": "string",
+          "description": "Common name of the company"
+        },
+        "industry": {
+          "type": "string",
+          "description": "Short industry label, e.g. 'Direct-to-consumer apparel'"
+        },
+        "employee_count": {
+          "type": "integer",
+          "description": "Approximate total number of employees; 0 if unknown"
+        },
+        "sells_to": {
+          "type": "string",
+          "enum": [
+            "consumers",
+            "businesses",
+            "both",
+            "unknown"
+          ],
+          "description": "Who the company primarily sells to"
+        },
+        "online_store_platform": {
+          "type": "string",
+          "description": "E-commerce platform behind its online store (e.g. 'Shopify'); 'none' if it does not sell online; 'unknown' if it cannot be determined"
+        },
+        "countries_served": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Countries or regions it sells or ships to, one per item. If it serves many, list its largest markets, or a count such as '150+ countries'"
+        },
+        "website_languages": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Languages its website, store, or help pages are offered in"
+        },
+        "work_model": {
+          "type": "string",
+          "enum": [
+            "remote",
+            "hybrid",
+            "office",
+            "unknown"
+          ],
+          "description": "How most employees work, from its careers pages and job posts: remote-first, hybrid, or in an office"
+        },
+        "actively_hiring": {
+          "type": "boolean",
+          "description": "Whether its careers page or job boards list open roles right now"
+        },
+        "handles_sensitive_data": {
+          "type": "boolean",
+          "description": "Whether the company's core product involves customers' health or financial records (health tracking, banking, insurance, lending). Taking card payments at checkout does not count"
+        }
+      }
+    }
+  },
+  "response": {
+    "requestId": "fd4795214668944c671f29b891674f60",
+    "resolvedSearchType": "",
+    "results": [
+      {
+        "id": "https://careers.nike.com/jobs",
+        "title": "Search Open Nike Jobs",
+        "url": "https://careers.nike.com/jobs",
+        "highlights": [
+          "OPEN POSITIONS:\n...\n- ### Assistant Store Manager - Nike Gilroy R-92316\n...\nConverse Albertville\n...\n- ### Senior Materials Developer – Energy Footwear (Multiple Openings) R-95731\n...\n- ### Athlete / Asesor.a de Venta FT 40H Tiempo Completo – TEMPORAL | Nike Unite Punto Sur R-95566\n\nJAL, Jalisco, Mexico\n...\n- ### Head Coach / Gerente de Tienda | Nike Mexico City and WOF R-92078"
+        ],
+        "image": "https://d25zu39ynyitwy.cloudfront.net/oms/3891/image/2025/1/OXNIR_image/image.jpg"
+      },
+      {
+        "id": "https://investors.nike.com/_assets/_5c5e7dfb9b8f3a4f8235c64466d81cf9/nike/db/950/9550/annual_report/Nike-Inc-2026-10K.pdf",
+        "title": "2026 Nike Form 10-K",
+        "url": "https://investors.nike.com/_assets/_5c5e7dfb9b8f3a4f8235c64466d81cf9/nike/db/950/9550/annual_report/Nike-Inc-2026-10K.pdf",
+        "author": "NIKE",
+        "highlights": [
+          "EE BASE As of May 31, 2026, we had approximately 73,000 employees worldwide, including retail and part-time employees. We also utilize independent contractors and temporary personnel to supplement our workforce. Most of our employees are not represented by unions, except for certain employees in the EMEA and APLA geographies who are members of and/or are represented by trade unions, as allowed or"
+        ]
+      },
+      {
+        "id": "https://investors.nike.com/company-information/who-we-are",
+        "title": "Who We Are :: NIKE, Inc. (NKE)",
+        "url": "https://investors.nike.com/company-information/who-we-are",
+        "highlights": [
+          "Headquartered in Beaverton, Oregon, NIKE, Inc. is the world's leading designer, marketer, and distributor of authentic athletic footwear, apparel, equipment, and accessories for a wide variety of sports and fitness activities. Converse, a wholly-owned NIKE, Inc. subsidiary brand, designs, markets and distributes athletic lifestyle footwear, apparel, and accessories.\n...\n: ~190"
+        ],
+        "image": "https://investors.nike.com/_assets/_5c5e7dfb9b8f3a4f8235c64466d81cf9/nike/db/931/8002/social_image_resized.jpg"
+      },
+      {
+        "id": "https://gironajs.com/en/blog/nike-ecommerce-reverse-engineering",
+        "title": "Reverse engineering of Nike's e-commerce site using only the browser",
+        "url": "https://gironajs.com/en/blog/nike-ecommerce-reverse-engineering",
+        "publishedDate": "2023-12-01T00:00:00.000Z",
+        "highlights": [
+          "The purpose of this article is to delve as deeply as possible into the technologies used and how they are employed within a \"major\" ecommerce platform, such as the one employed by Nike. We'll do this by utilizing the browser's developer tools.\n...\nGraphQL or if it was all ... . Although REST APIs are clearly more dominant, ... in managing wishlists when retrieving ... , for example"
+        ],
+        "image": "https://gironajs.com/assets/blog/descubrint-el-ecommerce-de-nike/cover-image.jpg"
+      },
+      {
+        "id": "https://www.linkedin.com/posts/val-tone_the-new-omni-channel-apis-are-live-and-powering-activity-7243621081612263424-bG8f",
+        "title": "The new Omni Channel APIs are live and powering Nike’s Digital Experiences across Nike.com and Nike App in 56 countries, 25 languages, and 47 currencies.",
+        "url": "https://www.linkedin.com/posts/val-tone_the-new-omni-channel-apis-are-live-and-powering-activity-7243621081612263424-bG8f",
+        "publishedDate": "2024-09-22T00:00:00.000Z",
+        "highlights": [
+          "# The new Omni Channel APIs are live and powering Nike’s Digital Experiences across Nike.com and Nike App in 56 countries, 25 languages, and 47 currencies. · 2024-09-22T00:00:00+00:00\n...\n> 56 countries, 25 languages & 47 currencies... Our newly rebuilt Product Detail Pages are ready to inspire and power many billions more in digital direct to consumer sales.\n>"
+        ],
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQEdrIUiVgaXuA/feedshare-image-high-res/feedshare-image-high-res/0/1726272823786?e=2147483647&v=beta&t=aRr4i8_DLEVqPlYzCp-rwNHw_VyOrIXZdfUQTvyWpMY"
+      },
+      {
+        "id": "https://investors.nike.com/sec-filings/all-sec-filings/content/0000320187-25-000047/0000320187-25-000047.pdf",
+        "title": "10-K - 07/17/2025 - NIKE, Inc.",
+        "url": "https://investors.nike.com/sec-filings/all-sec-filings/content/0000320187-25-000047/0000320187-25-000047.pdf",
+        "highlights": [
+          "in over 40 countries, our NIKE Direct and Converse direct to\n...\n• We provide a hybrid work approach for the majority of employees, as well as a Four Week Flex program, which provides employees an opportunity to work remotely for up to four weeks per year.\n...\nOur NIKE digital commerce website is located at www.nike.com. On our NIKE corporate website, located at investors.nike.com, we post the"
+        ]
+      },
+      {
+        "id": "https://about.nike.com/en/company",
+        "title": "Welcome to NIKE, Inc. —",
+        "url": "https://about.nike.com/en/company",
+        "highlights": [
+          "in 1999, Nike’s European Headquarters in Hilversum, The Netherlands sits on the former grounds of the 1928 Amsterdam Olympic Equestrian Games. The campus of 10 sustainability-designed buildings is home to more than 2,000 employees from more than 70 countries. Employees have access to training centers, running tracks, cycling paths, a pond-slash-ice rink, adaptable workspaces, eateries, an"
+        ],
+        "image": "https://nmp.about.nike.com/about/prod/c3cccb70-3f7b-43f8-83d2-142a7814d3b5/lebron-exterior-001.jpg?m=eyJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjEwMH0sIndlYnAiOnsicXVhbGl0eSI6MTAwfSwiZXh0cmFjdCI6eyJsZWZ0Ijo1NTQsInRvcCI6MCwid2lkdGgiOjIwMTksImhlaWdodCI6MjAxOH0sInJlc2l6ZSI6eyJ3aWR0aCI6OTAwfX19&s=ca84bdb183a50e33c8ff1fa295a8c6fdb7a96c09523375b2debe3694757db87e"
+      },
+      {
+        "id": "https://careers.nike.com/life-at-nike",
+        "title": "Life @ Nike",
+        "url": "https://careers.nike.com/life-at-nike",
+        "highlights": [
+          "We have over 100,000 retail stores all over the world. From the location to the consumers, each one is unique in its own way.\n...\nWith over 50 distribution centers worldwide, we make the impossible happen by delivering to our consumers, accounts, and retail stores every day.\n...\n- ### Retail Associate, PT - Nike Las Vegas South R-92914\n\nLas Vegas, Nevada, United States\n...\n, SEAS - Nike"
+        ],
+        "image": "https://d25zu39ynyitwy.cloudfront.net/oms/3891/image/2025/1/OXNIR_image/image.jpg"
+      }
+    ],
+    "searchTime": 4352,
+    "costDollars": {
+      "total": 0.012
+    },
+    "output": {
+      "content": {
+        "actively_hiring": true,
+        "company_name": "NIKE, Inc.",
+        "countries_served": [
+          "~190 countries"
+        ],
+        "employee_count": 73000,
+        "handles_sensitive_data": false,
+        "industry": "Athletic footwear, apparel, equipment and accessories",
+        "online_store_platform": "Next.js",
+        "sells_to": "both",
+        "website_languages": [
+          "25 languages"
+        ],
+        "work_model": "hybrid"
+      },
+      "grounding": [
+        {
+          "field": "actively_hiring",
+          "citations": [
+            {
+              "url": "https://careers.nike.com/jobs",
+              "title": "Search Open Nike Jobs"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "company_name",
+          "citations": [
+            {
+              "url": "https://investors.nike.com/_assets/_5c5e7dfb9b8f3a4f8235c64466d81cf9/nike/db/950/9550/annual_report/Nike-Inc-2026-10K.pdf",
+              "title": "2026 Nike Form 10-K"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "countries_served",
+          "citations": [
+            {
+              "url": "https://investors.nike.com/company-information/who-we-are",
+              "title": "Who We Are :: NIKE, Inc. (NKE)"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "employee_count",
+          "citations": [
+            {
+              "url": "https://investors.nike.com/_assets/_5c5e7dfb9b8f3a4f8235c64466d81cf9/nike/db/950/9550/annual_report/Nike-Inc-2026-10K.pdf",
+              "title": "2026 Nike Form 10-K"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "handles_sensitive_data",
+          "citations": [
+            {
+              "url": "https://investors.nike.com/_assets/_5c5e7dfb9b8f3a4f8235c64466d81cf9/nike/db/950/9550/annual_report/Nike-Inc-2026-10K.pdf",
+              "title": "2026 Nike Form 10-K"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "industry",
+          "citations": [
+            {
+              "url": "https://investors.nike.com/_assets/_5c5e7dfb9b8f3a4f8235c64466d81cf9/nike/db/950/9550/annual_report/Nike-Inc-2026-10K.pdf",
+              "title": "2026 Nike Form 10-K"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "online_store_platform",
+          "citations": [
+            {
+              "url": "https://gironajs.com/en/blog/nike-ecommerce-reverse-engineering",
+              "title": "Reverse engineering of Nike's e-commerce site using only the browser"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "sells_to",
+          "citations": [
+            {
+              "url": "https://investors.nike.com/_assets/_5c5e7dfb9b8f3a4f8235c64466d81cf9/nike/db/950/9550/annual_report/Nike-Inc-2026-10K.pdf",
+              "title": "2026 Nike Form 10-K"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "website_languages",
+          "citations": [
+            {
+              "url": "https://www.linkedin.com/posts/val-tone_the-new-omni-channel-apis-are-live-and-powering-activity-7243621081612263424-bG8f",
+              "title": "The new Omni Channel APIs are live and powering Nike’s Digital Experiences across Nike.com and Nike App in 56 countries, 25 languages, and 47 currencies."
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "field": "work_model",
+          "citations": [
+            {
+              "url": "https://investors.nike.com/_assets/_5c5e7dfb9b8f3a4f8235c64466d81cf9/nike/db/950/9550/annual_report/Nike-Inc-2026-10K.pdf",
+              "title": "2026 Nike Form 10-K"
+            }
+          ],
+          "confidence": "high"
+        }
+      ]
+    }
+  },
+  "cached": false,
+  "fetchedAt": "2026-10-16T02:05:27.954Z"
+}
