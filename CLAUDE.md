@@ -1,6 +1,6 @@
 # Overview
 
-A portfolio project: a self-configuring signup for **Acme**, a fictional business-software suite. One Exa search turns a work email's domain into a cited company profile, and plain rules turn the profile into a plan, add-ons, and setup items. `README.md` is the public description of what it does and how.
+**Prefit Cart**, a portfolio project: a self-configuring signup for **Acme**, a fictional business-software suite. One Exa search turns a work email's domain into a cited company profile, and plain rules turn the profile into a plan, add-ons, and setup items. `README.md` is the public description of what it does and how.
 
 Acme is the only brand on the page. The companies looked up are real, but they appear only as data; never style the app after a real company.
 

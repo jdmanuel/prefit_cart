@@ -17,7 +17,7 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <MantineProvider theme={theme} defaultColorScheme="light">
       <Head>
-        <title>Acme signup · tailored by Exa</title>
+        <title>Prefit Cart · an Acme signup tailored by Exa</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta
           name="description"

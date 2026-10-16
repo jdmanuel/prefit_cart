@@ -1,8 +1,10 @@
-# Acme signup, tailored by Exa
+# Prefit Cart
 
-A signup flow that configures itself. A buyer types a work email, and one [Exa](https://exa.ai) search turns the email's domain into a cited company profile. Plain, testable rules turn that profile into a plan, add-ons, and setup steps, each with a reason and a link to its source.
+A signup cart that arrives already fitted to the buyer's company. It's a proof of concept for onboarding that anticipates what a business needs, guides the buyer to it, and grows revenue for the seller along the way.
 
-Acme is a fictional business-software suite. The companies you can look up are real.
+A buyer types a work email, and one [Exa](https://exa.ai) search turns the email's domain into a cited company profile. Plain, testable rules turn that profile into a plan, add-ons, and setup steps, each with a reason and a link to its source.
+
+The seller in the demo, Acme, is a fictional business-software suite. The companies you can look up are real.
 
 ## What it shows
 
